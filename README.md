@@ -1,12 +1,12 @@
-# VSCode Demo
+# VSCode HowTo
 
 A Visual Studio Code introduction.
 
-Start reading [here]().
+Start reading [here](Chapters/VSCodeOverview.md).
 
 ---
 
-## Chapters
+## Overview
 
 * [Setup Visual Studio Code for InterSystems ObjectScript](Chapters/SetupVscodeObjectScript.md)
 * [VSCode Keyboard Shortcuts](Chapters/VSCKeyboardShortcuts.md)
@@ -18,4 +18,5 @@ Start reading [here]().
 ---
 
 by [Philipp B.](https://github.com/phil1436)
+
 powered by [InterSystems](https://www.intersystems.com/).
