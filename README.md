@@ -1,6 +1,6 @@
 # VSCode HowTo
 
-A Visual Studio Code introduction.
+Introduction to Visual Studio Code and using VSCode with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
 
 Start reading [here](Chapters/VSCodeOverview.md).
 
