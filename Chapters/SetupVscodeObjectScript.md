@@ -1,7 +1,7 @@
 # Setup Visual Studio Code for InterSystems ObjectScript
 
 ---
-* [Download Visual Studio Code](#download-visual-studio-code)
+
 * [Install InterSystems Extensions](#install-intersystems-extensions)
 * [Connect to a Server](#connect-to-a-server)
 * [Open Namespace in Workspace via InterSystems Tools](#open-namespace-in-workspace-via-intersystems-tools)
@@ -9,17 +9,11 @@
 
 ---
 
-## Download Visual Studio Code
-
-Download Visual Studio Code for your platform [here](https://code.visualstudio.com/download).
-
----
-
 ## Install InterSystems Extensions
 
-Go to the Activity Bar on the far left-hand side and click on the  `Extensions` <img src = "https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/06/VSCode-Extension-Icon-.png" tile = "Extensions Icon" width = "4%"/> tap.
+Go to the Activity Bar on the far left-hand side and click on the  `Extensions` <img src = "https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/06/VSCode-Extension-Icon-.png" tile = "Extensions Icon" width = "2%"/> tap.
 
-Type in the search bar *InterSystems* and then install the [InterSystems ObjectScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=intersystems-community.objectscript-pack) <img src = "https://intersystems-community.gallerycdn.vsassets.io/extensions/intersystems-community/objectscript-pack/1.0.3/1612388253024/Microsoft.VisualStudio.Services.Icons.Default" title = "OEP Icon" width = "4%"/>. This Extension pack includes:
+Type in the search bar *InterSystems* and then install the [InterSystems ObjectScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=intersystems-community.objectscript-pack) <img src = "https://intersystems-community.gallerycdn.vsassets.io/extensions/intersystems-community/objectscript-pack/1.0.3/1612388253024/Microsoft.VisualStudio.Services.Icons.Default" title = "OEP Icon" width = "2%"/>. This Extension pack includes:
 
 * [InterSystems ObjectScript](https://marketplace.visualstudio.com/items?itemName=intersystems-community.vscode-objectscript): Adds InterSystems ObjectScript language support.
 * [InterSystems Language Server](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server): Adds InterSystems ObjectScript language server.
@@ -29,7 +23,7 @@ Type in the search bar *InterSystems* and then install the [InterSystems ObjectS
 
 ## Connect to a Server
 
-* Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "5%"/> tap in the Activity Bar.
+* Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "2%"/> tap in the Activity Bar.
 * You can see default configuartions under `All Servers`
 * If you want to create a new Server connection click on the `+` button on the top and then fill in the connection properties:
 
@@ -48,7 +42,7 @@ After successfully adding a new Server you can see the Server under `All Servers
 
 ## Open Namespace in Workspace via InterSystems Tools
 
-* Open the `InterSystems Tools` <img src = "imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "5%"/> tap in the Activity Bar.
+* Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "2%"/> tap in the Activity Bar.
 * Choose a Server and click on it.
   * If the connection is succesfully you will the a new directory named *Namespaces*.
   * If the connection failed you will see *Unavailable at \<current-time\>*.
@@ -67,4 +61,5 @@ After successfully adding a new Server you can see the Server under `All Servers
 
 ---
 
-Read next Chapter [here]().
+[Next Chapter]()
+[Overview](../README.md)
