@@ -136,3 +136,6 @@ Here you can search and run all Commands. You can also map a command to a Keyboa
     Mac: SHIFT + OPT + F
 
 ---
+
+[Next Chapter]()
+[Overview](../README.md)
