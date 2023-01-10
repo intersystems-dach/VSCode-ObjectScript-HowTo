@@ -100,7 +100,7 @@ When editing settings in the *Workspace* tap all settings applied only effects t
 
 ## Color Theme
 
-You can customize the appearance of the Visual Studio Code interface to your needs. Navigate to the *Manage* tap in the Activity Bar and select `Color Theme`. There you can choose from a preinstalled Color Theme or install a new Color Theme with `+ Browse Additional Color Themes...`
+You can customize the appearance of the Visual Studio Code interface to your needs. Navigate to `File > Preferences > Color Theme` there you can choose from a preinstalled Color Theme or install a new Color Theme with `+ Browse Additional Color Themes...`
 
 ---
 

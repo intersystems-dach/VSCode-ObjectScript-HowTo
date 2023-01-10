@@ -29,8 +29,7 @@ Type in the search bar *InterSystems* and then install the [InterSystems ObjectS
 
 To provide correct color highlighting when working with Objectscript choose a InterSystems Color Theme.
 
-* Open the `Manage` <img src = "../imgs/ManageIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
-* Select `Color Theme`.
+* Navigate to `File > Preferences > Color Theme`
 * Choose `InterSystems Default Dark` or `InterSystems Default Light`.
 
 ---
