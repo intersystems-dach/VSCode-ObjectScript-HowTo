@@ -1,6 +1,6 @@
 # Visual Studio Code Keyboard Shortcuts
 
-A key to be more productive with Visual Studio Code is to use the builtin keyboard shortcuts.
+A key to be more productive with Visual Studio Code is to use the builtin keyboard shortcuts. You can view the full list of keyboard shortcuts by going to `File > Preferences > Keyboard Shortcuts`.
 
 > Note: Some of these shortcuts may differ based on the specific operating system or keyboard layout you're using (here for german layout).
 
