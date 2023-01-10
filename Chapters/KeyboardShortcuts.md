@@ -1,4 +1,4 @@
-# VSCode Keyboard Shortcuts
+# Visual Studio Code Keyboard Shortcuts
 
 A key to be more productive with VSCode is to use the builtin keyboard shortcuts.
 
