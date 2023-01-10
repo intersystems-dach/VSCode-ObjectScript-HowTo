@@ -11,11 +11,8 @@ Start reading [here](Chapters/VSCodeOverview.md).
 ## Overview
 
 * [Setup Visual Studio Code for InterSystems ObjectScript](Chapters/SetupVscodeObjectScript.md)
-* [VSCode Keyboard Shortcuts](Chapters/VSCKeyboardShortcuts.md)
-  * [Command Palette](Chapters/VSCKeyboardShortcuts.md#command-palette)
-  * [View](Chapters/VSCKeyboardShortcuts.md#view)
-  * [Navigate](Chapters/VSCKeyboardShortcuts.md#navigate)
-  * [Edit](Chapters/VSCKeyboardShortcuts.md#edit)
+* [Visual Studio Code Keyboard Shortcuts](Chapters/KeyboardShortcuts.md)
+* [Visual Studio Code Essential Extensions](Chapters/EssentialExtensions.md.md)
 
 ---
 
