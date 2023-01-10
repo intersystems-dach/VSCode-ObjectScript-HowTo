@@ -2,9 +2,11 @@
 
 # VSCode HowTo
 
-Introduction to [Microsofts Visual Studio Code](https://code.visualstudio.com/) and using Visual Studio Code with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
+An introduction to [Microsoft's Visual Studio Code](https://code.visualstudio.com/) and how to use Visual Studio Code with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
 
-Start reading [here](Chapters/VSCodeOverview.md).
+---
+
+Start reading **[here](Chapters/GettingStartedWithVSCode.md.md)**.
 
 ---
 
@@ -33,7 +35,6 @@ Start reading [here](Chapters/VSCodeOverview.md).
   * [Navigation](Chapters/KeyboardShortcuts.md#navigation)
   * [Edit](Chapters/KeyboardShortcuts.md#edit)
 * [Essential Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
-
 
 ---
 
