@@ -1,6 +1,6 @@
-# Essential VSCode Extensions
+# Essential Visual Studio Code Extensions
 
-VSCode is a powerful text editor, but it can be even more powerful with the right extensions. Here's a list of some essential extensions that can help you boost your productivity and streamline your workflow.
+Visual Studio Code is a powerful text editor, but it can be even more powerful with the right extensions. Here's a list of some essential extensions that can help you boost your productivity and streamline your workflow.
 
 ---
 
