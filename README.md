@@ -1,6 +1,6 @@
 <img src = "/imgs/IrisXVscode.png" tile = "IRIS X VSCode" width = "30%"/>
 
-# VSCode HowTo
+# VSCode-ObjectScript-HowTo
 
 An introduction to [Microsoft's Visual Studio Code](https://code.visualstudio.com/) and how to use Visual Studio Code with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
 
