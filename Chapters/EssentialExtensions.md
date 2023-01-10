@@ -54,10 +54,10 @@ Visual Studio Code is a powerful text editor, but it can be even more powerful w
 
 * **[ChatGPT: write and improve code using AI](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)** - Use ChatGPT right inside the IDE to enhance and automate your coding with AI-powered assistance (unofficial).
 
-These are just a few examples of the many useful extensions available for VSCode. Experiment with different extensions to find the ones that work best for you and your workflow.
+These are just a few examples of the many useful extensions available for Visual Studio Code. Experiment with different extensions to find the ones that work best for you and your workflow.
 
 ---
 
-[Next Chapter](../README.md)
-
 [Overview](../README.md)
+
+by [Philipp B.](https://github.com/phil1436)

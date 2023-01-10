@@ -1,6 +1,6 @@
 # Visual Studio Code Keyboard Shortcuts
 
-A key to be more productive with VSCode is to use the builtin keyboard shortcuts.
+A key to be more productive with Visual Studio Code is to use the builtin keyboard shortcuts.
 
 > Note: Some of these shortcuts may differ based on the specific operating system or keyboard layout you're using (here for german layout).
 
@@ -145,6 +145,8 @@ Windows/Linux: `Shift + Alt + F`  MacOS: `Shift + Option + F`
 
 ---
 
-[Next Chapter](../README.md)
+[Next Chapter](EssentialExtensions.md)
 
 [Overview](../README.md)
+
+by [Philipp B.](https://github.com/phil1436)
