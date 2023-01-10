@@ -10,9 +10,19 @@ Start reading [here](Chapters/VSCodeOverview.md).
 
 ## Overview
 
-* [Setup Visual Studio Code for InterSystems ObjectScript](Chapters/SetupVscodeObjectScript.md)
+* [Getting Started with Visual Studio Code](Chapters/VSCodeOverview.md)
+  * [Install Visual Studio Code](Chapters/VSCodeOverview.md#install-visual-studio-code)
+  * [Opening a project](#opening-a-project)
+  * [The Visual Studio Code interface](#the-visual-studio-code-interface)
+  * [Writing and editing code](#writing-and-editing-code)
+  * [Workspaces](#workspaces)
+  * [Settings](#settings)
+  * [Color Theme](#color-theme)
+  * [Debugging and testing](#debugging-and-testing)
+  * [Source Control](Chapters/VSCodeOverview.md#source-control)
 * [Visual Studio Code Keyboard Shortcuts](Chapters/KeyboardShortcuts.md)
-* [Visual Studio Code Essential Extensions](Chapters/EssentialExtensions.md.md)
+* [Essential Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
+* [Setup Visual Studio Code for InterSystems ObjectScript](Chapters/SetupVscodeObjectScript.md)
 
 ---
 
