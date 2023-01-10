@@ -1,8 +1,10 @@
 <img src = "/imgs/IrisXVscode.png" tile = "IRIS X VSCode" width = "30%"/>
 
+![IRIS X VSCode](/imgs/IrisXVscode.png){:width="30%"}
+
 # VSCode HowTo
 
-Introduction to Visual Studio Code and using VSCode with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
+Introduction to [Microsofts Visual Studio Code](https://code.visualstudio.com/) and using VSCode with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
 
 Start reading [here](Chapters/VSCodeOverview.md).
 
