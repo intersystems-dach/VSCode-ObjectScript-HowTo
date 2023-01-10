@@ -1,11 +1,15 @@
-# Setup Visual Studio Code for InterSystems ObjectScript
+# Using Visual Studio Code with InterSystems ObjectScript
+
+InterSystems ObjectScript is a programming language that is used in InterSystems databases such as InterSystems IRIS and Caché. Visual Studio Code (VSCode) is a popular text editor that can be used to write and edit ObjectScript code.
 
 ---
 
 * [Install InterSystems Extensions](#install-intersystems-extensions)
+* [Set ObjectScript Color Theme](#set-objectscript-color-theme)
 * [Connect to a Server](#connect-to-a-server)
-* [Open Namespace in Workspace via InterSystems Tools](#open-namespace-in-workspace-via-intersystems-tools)
-* [Open Namespace in Workspace via Explorer](#open-namespace-in-workspace-via-explorer)
+* [Open a Namespace via InterSystems Tools](#open-a-namespace-via-intersystems-tools)
+* [Open a Namespace via the Explorer](#open-a-namespace-via-the-explorer)
+* [Writing ObjectScript Code](#writing-objectscript-code)
 
 ---
 
@@ -35,7 +39,7 @@ To provide correct color highlighting when working with Objectscript choose a In
 
 * Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
 * You can see default configuartions under `All Servers`
-* If you want to create a new Server connection click on the `+` button on the top and then fill in the connection properties:
+* If you want to create a new Server connection click on the `+` button in the top and then fill in the connection properties:
 
   * *Name of new server definition*: Give your Connection a name.
   * *Optional Description*: A optional description for your server. Tap `Enter` to leave empty.
@@ -46,15 +50,15 @@ To provide correct color highlighting when working with Objectscript choose a In
 
 After successfully adding a new Server you can see the Server under `All Servers`.
 
-> Tip: You can edit your Server Properties under: `...` in the top right corner > Edit Settings > InterSystems: Servers > Edit in settings.json
+> Tip: You can edit your Server Properties under: `...` in the top right corner `> Edit Settings > InterSystems: Servers > Edit in settings.json`.
 
 ---
 
-## Open Namespace in Workspace via InterSystems Tools
+## Open a Namespace via InterSystems Tools
 
 * Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
 * Choose a Server and click on it.
-  * If the connection is succesfully you will the a new directory named *Namespaces*.
+  * If the connection is succesfully you will see a new directory named *Namespaces*.
   * If the connection failed you will see *Unavailable at \<current-time\>*.
 * Choose a namespace.
   * Click on the *eye-icon* next to your namespace to view the namespace in your workspace.
@@ -62,7 +66,7 @@ After successfully adding a new Server you can see the Server under `All Servers
 
 ---
 
-## Open Namespace in Workspace via Explorer
+## Open a Namespace via the Explorer
 
 * Open the `Explorer` tap in the Activity Bar.
 * Do a right-click and choose `Add Server Namespace to Workspace`.
@@ -71,5 +75,18 @@ After successfully adding a new Server you can see the Server under `All Servers
 
 ---
 
-[Next Chapter]()
+## Writing ObjectScript Code
+
+Once you have connected to a Namespace, you can begin writing ObjectScript code. Here are the basic steps for doing so:
+
+* Create a new file with the `.cls` file extension (for example, `MyPackage.MyClass.cls`)
+* Write your ObjectScript code in this file.
+* The class will be compiled after you saved the file.
+
+You can also create other file with the extension .mac, .inc etc.
+
+---
+
+[Next Chapter](../README.md)
+
 [Overview](../README.md)
