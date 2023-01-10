@@ -6,7 +6,7 @@ An introduction to [Microsoft's Visual Studio Code](https://code.visualstudio.co
 
 ---
 
-Start reading **[here](Chapters/GettingStartedWithVSCode.md.md)**.
+Start reading **[here](Chapters/GettingStartedWithVSCode.md)**.
 
 ---
 
