@@ -7,9 +7,12 @@ InterSystems ObjectScript is a programming language that is used in InterSystems
 * [Install InterSystems Extensions](#install-intersystems-extensions)
 * [Set ObjectScript Color Theme](#set-objectscript-color-theme)
 * [Connect to a Server](#connect-to-a-server)
-* [Open a Namespace via InterSystems Tools](#open-a-namespace-via-intersystems-tools)
-* [Open a Namespace via the Explorer](#open-a-namespace-via-the-explorer)
+* [Store Credentials](#store-credentials)
+* [Open a Namespace](#open-a-namespace)
+  * [Open a Namespace via InterSystems Tools](#open-a-namespace-via-intersystems-tools)
+  * [Open a Namespace via the Explorer](#open-a-namespace-via-the-explorer)
 * [Writing ObjectScript Code](#writing-objectscript-code)
+* [Use SQLTools](#use-sqltools)
 
 ---
 
@@ -53,7 +56,41 @@ After successfully adding a new Server you can see the Server under `All Servers
 
 ---
 
-## Open a Namespace via InterSystems Tools
+## Store Credentials
+
+Everytime you close Visual Studio Code and reopen it, it will prompt you a message with
+
+* Store Username:
+  * In the [Command Palette](KeyboardShortcuts.md#command-palette) type *Preferences: Open User Settings (JSON)*. Here you can see your server connection in a JSON format.
+  * Choose the server you want to add your username and add a property called *username*
+
+Example:
+
+````json
+"default~iris": {
+         "webServer": {
+            ...
+         },
+         "username":"<your-username>",
+         "description": "Connection to local InterSystems IRIS™ installed with default settings."
+      }
+````
+
+* Store password
+  * Next time you open Visual Studio code, it will prompt you a dialog and ask for a password
+  * Type in your password
+  * Click on the *key* button in the top right corner of the dialog to store the password
+* Delete password
+  * Navigate to *Accounts* in the Activity Bar
+  * Select your user
+  * Click on `Sign Out`
+  * select `Delete` when asked to delete password
+
+---
+
+## Open a Namespace
+
+### Open a Namespace via InterSystems Tools
 
 * Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
 * Choose a Server and click on it.
@@ -63,9 +100,7 @@ After successfully adding a new Server you can see the Server under `All Servers
   * Click on the *eye-icon* next to your namespace to view the namespace in your workspace.
   * Click on the *pen-icon* next to your namespace to edit the namespace in your workspace.
 
----
-
-## Open a Namespace via the Explorer
+### Open a Namespace via the Explorer
 
 * Open the `Explorer` tap in the Activity Bar.
 * Do a right-click and choose `Add Server Namespace to Workspace`.
@@ -83,6 +118,21 @@ Once you have connected to a Namespace, you can begin writing ObjectScript code.
 * The class will be compiled after you saved the file.
 
 You can also create other file with the extension .mac, .inc etc.
+
+---
+
+## Use SQLTools
+
+When you want to have a look inside your database without leaving Visual Studio Code, you can use the SQLTools extension.
+
+* Install the [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) extension
+* Install the [SQLTools InterSystems IRIS](https://marketplace.visualstudio.com/items?itemName=intersystems-community.sqltools-intersystems-driver)
+* Navigate to the SQLTools tap <img src ="https://raw.githubusercontent.com/intersystems-community/sqltools-intersystems-driver/master/docs/assets/img/activitybar.png" title = "SQLTools icon"> in the Activity Bar and choose `Add New Connection`
+* Choose *InterSystems IRIS* and fill out the connection properties
+* Choose `Connect Now` and you will see a new connection under *Connections*
+* Now you can create a new SQl file and run the Query on your connection with `Run on active connection`
+**OR**
+* Browse through your tables and views, by unfolding the connection, and then view the table or view by clicking on the magnifyingglasses icon.
 
 ---
 

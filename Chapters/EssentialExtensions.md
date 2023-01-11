@@ -58,6 +58,14 @@ These are just a few examples of the many useful extensions available for Visual
 
 ---
 
+Check out my Visual Studio Code Extensions:
+
+* **[OwnVscodeExtension](https://github.com/phil1436/ownvscodeextension)** - Providing tools for Visual Studio Code.
+* **[OwnGitExtension](https://github.com/phil1436/owngitextension)** - A Visual Studio Code Extension that offers tools for working with GitHub projects.
+* **[OwnObjectScriptExtension](https://github.com/phil1436/ownobjectscriptextension)** - A Visual Studio code extension that supplies tools for InterSystems ObjectScript.
+
+---
+
 [Previous Chapter](KeyboardShortcuts.md)
 
 [Overview](../README.md)
