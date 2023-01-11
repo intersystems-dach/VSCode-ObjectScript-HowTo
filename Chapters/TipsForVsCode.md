@@ -69,6 +69,8 @@ A linter can help catch syntax errors and other issues in your code before they 
 
 [Next Chapter](KeyboardShortcuts.md)
 
+[Previous Chapter](UsingVSCodeWithObjectScript.md)
+
 [Overview](../README.md)
 
 by [Philipp B.](https://github.com/phil1436)

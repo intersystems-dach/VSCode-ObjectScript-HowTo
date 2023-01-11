@@ -88,6 +88,8 @@ You can also create other file with the extension .mac, .inc etc.
 
 [Next Chapter](TipsForVsCode.md)
 
+[Previous Chapter](GettingStartedWithVSCode.md)
+
 [Overview](../README.md)
 
 by [Philipp B.](https://github.com/phil1436)

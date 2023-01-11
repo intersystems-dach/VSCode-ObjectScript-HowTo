@@ -158,6 +158,8 @@ Windows/Linux: `Shift + Alt + F`  MacOS: `Shift + Option + F`
 
 [Next Chapter](EssentialExtensions.md)
 
+[Previous Chapter](TipsForVsCode.md)
+
 [Overview](../README.md)
 
 by [Philipp B.](https://github.com/phil1436)

@@ -58,6 +58,8 @@ These are just a few examples of the many useful extensions available for Visual
 
 ---
 
+[Previous Chapter](KeyboardShortcuts.md)
+
 [Overview](../README.md)
 
 by [Philipp B.](https://github.com/phil1436)
