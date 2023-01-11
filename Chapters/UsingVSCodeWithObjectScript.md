@@ -86,7 +86,7 @@ You can also create other file with the extension .mac, .inc etc.
 
 ---
 
-[Next Chapter](KeyboardShortcuts.md)
+[Next Chapter](TipsForVsCode.md)
 
 [Overview](../README.md)
 

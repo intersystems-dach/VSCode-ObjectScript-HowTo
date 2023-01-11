@@ -6,10 +6,21 @@ A key to be more productive with Visual Studio Code is to use the builtin keyboa
 
 ---
 
+* [Keyboard reference sheet](#keyboard-reference-sheet)
 * [Command Palette](#command-palette)
 * [View](#view)
 * [Navigation](#navigation)
 * [Edit](#edit)
+
+---
+
+## Keyboard reference sheet
+
+Here you can view almost all keyboard shortcuts in one overview.
+
+![Keyboard reference sheet](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)
+
+For [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) and [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf).
 
 ---
 
