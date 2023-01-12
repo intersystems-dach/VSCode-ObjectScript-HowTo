@@ -58,6 +58,10 @@ Here you can find useful settings as well as
 * `editor.tabSize`: customize the size of the tab
 * `editor.fontSize` : customise the size of the font
 
+## Settings Sync
+
+You can sync your settings, keybindings and extensions across all devices with *[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)*. Just log in with your GitHub or Microsoft user.
+
 ## Use code navigation features
 
 Visual Studio Code includes features such as Go to Definition, Find All References, and Peek Definition, which can be useful for navigating through your codebase.
@@ -69,24 +73,6 @@ Install the [FiraCode Font](https://github.com/tonsky/FiraCode) to replace symbo
 ## Create your own Extensions
 
 Visual Studio Code offers a wide variety of extensions and there is almost a extension for everthing. But sometimes you run into a problem where no extension exists to solve this problem. That could be the point to start [creating your own extensions](https://code.visualstudio.com/api/get-started/your-first-extension).
-
-<!-- ## Tips for Using VS Code with InterSystems ObjectScript
-
-## 1. Use the integrated terminal
-
-VS Code includes an integrated terminal that can be used to run commands such as `do ##class(Package.Class).Method()`. This can be useful for testing code or running scripts.
-
-## 2. Take advantage of code snippets
-
-The InterSystems ObjectScript extension includes a variety of code snippets for common tasks such as creating a class, a method, a query, or a routine. Simply type the snippet trigger and press tab to insert the snippet.
-
-## 3. Use code navigation features
-
-VS Code includes features such as Go to Definition, Find All References, and Peek Definition, which can be useful for navigating through your codebase.
-
-## 4. Consider using a linter
-
-A linter can help catch syntax errors and other issues in your code before they cause problems. Some popular linters for ObjectScript include ObjectScript Linter, and JSHint ObjectScript. -->
 
 ---
 
