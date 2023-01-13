@@ -2,15 +2,15 @@
 
 # VSCode-ObjectScript-HowTo *german*
 
-An introduction to [Microsoft's Visual Studio Code](https://code.visualstudio.com/) and how to use Visual Studio Code with [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO).
+Eine Einführung in [Microsoft's Visual Studio Code](https://code.visualstudio.com/) und wie man Visual Studio Code mit [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO) nutzt.
 
 ---
 
-Start reading **[here](Chapters/GettingStartedWithVSCode.md)**.
+Fang **[hier](Chapters/GettingStartedWithVSCode.md)** an zu lesen.
 
 ---
 
-## Overview
+## Überblick
 
 * [Getting Started with Visual Studio Code](Chapters/GettingStartedWithVSCode.md)
   * [Install Visual Studio Code](Chapters/GettingStartedWithVSCode.md#install-visual-studio-code)
@@ -41,6 +41,6 @@ Start reading **[here](Chapters/GettingStartedWithVSCode.md)**.
 
 ---
 
-by [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/phil1436)
 
 powered by [InterSystems](https://www.intersystems.com/).
