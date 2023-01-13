@@ -66,8 +66,8 @@ Check out my Visual Studio Code Extensions:
 
 ---
 
-[Previous Chapter](KeyboardShortcuts.md)
+[Vorheriges Kapitel](KeyboardShortcuts.md)
 
-[Overview](../README.md)
+[Überblick](../README.md)
 
-by [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/phil1436)

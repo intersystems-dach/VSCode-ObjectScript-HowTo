@@ -16,21 +16,21 @@ Visual Studio Code (VSCode) is a lightweight yet powerful source code editor dev
 
 ---
 
-## Install Visual Studio Code
+## Installiere Visual Studio Code
 
-Before you can start using Visual Studio Code, you need to [download and install](https://code.visualstudio.com/download) the appropriate version for your operating system. Once the installation is complete, you can launch Visual Studio Code by double-clicking the icon on your desktop or by searching for "Visual Studio Code" in the start menu (on Windows) or spotlight (on macOS).
-
----
-
-## Opening a project
-
-When you first launch Visual Studio Code, you will be presented with an *Open Folder* dialog. You can use this to open an existing project, or you can create a new one by clicking `File > New Folder` and then selecting the new folder. Once you have a folder open, you can start adding and editing files within that folder.
+Bevor du anfangen kannst Visual Studio Code zu benutzen, musst du die passend Version für dein Betriebsystem [downloaden und installieren](https://code.visualstudio.com/download). Wenn die Installation abgeschlossen ist, kannst du Visual Studio Code starten, indem das Symbol auf deinem Desktop anklickst oder im Start Menü (Windows) oder Spotlight (macOS) nach "Visual Studio Code" suchst.
 
 ---
 
-## The Visual Studio Code interface
+## Ein Projekt öffnen
 
-The Visual Studio Code interface is divided into a few key areas:
+Wenn du Visual Studio Code das erste mal startest, wird dir ein Fenster mit *Open Folder* angezeigt. Hiermit kannst du ein bereits exestierendes Projekt öffnen oder ein neues Projekt erstellen, indem du nach `File > New Folder` navigierst und dann den neuen Ordner auswählst. Wenn du einen Ordner geöffnet hast, kannst du anfangen Datein zu deinem Projekt hinzuzufügen und bearbeiten.
+
+---
+
+## Die Visual Studio Code Oberfläche
+
+Die Visual Studio Code Oberfläche teilt sich in ein paar Hauptbereiche auf:
 
 <img src = "https://code.visualstudio.com/assets/api/ux-guidelines/examples/architecture-containers.png" tile = "VSCode Interface"/>
 
@@ -120,8 +120,8 @@ These are just a few of the many features that Visual Studio Code has to offer. 
 
 ---
 
-[Next Chapter](UsingVSCodeWithObjectScript.md)
+[Nächstes Kapitel](UsingVSCodeWithObjectScript.md)
 
-[Overview](../README.md)
+[Überblick](../README.md)
 
-by [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/phil1436)

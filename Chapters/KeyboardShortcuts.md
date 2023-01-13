@@ -156,10 +156,10 @@ Windows/Linux: `Shift + Alt + F`  MacOS: `Shift + Option + F`
 
 ---
 
-[Next Chapter](EssentialExtensions.md)
+[Nächstes Kapitel](EssentialExtensions.md)
 
-[Previous Chapter](TipsForVsCode.md)
+[Vorheriges Kapitel](TipsForVsCode.md)
 
-[Overview](../README.md)
+[Überblick](../README.md)
 
-by [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/phil1436)

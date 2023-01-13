@@ -76,10 +76,10 @@ Visual Studio Code offers a wide variety of extensions and there is almost a ext
 
 ---
 
-[Next Chapter](KeyboardShortcuts.md)
+[Nächstes Kapitel](KeyboardShortcuts.md)
 
-[Previous Chapter](UsingVSCodeWithObjectScript.md)
+[Vorheriges Kapitel](UsingVSCodeWithObjectScript.md)
 
-[Overview](../README.md)
+[Überblick](../README.md)
 
-by [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/phil1436)

@@ -136,10 +136,10 @@ When you want to have a look inside your database without leaving Visual Studio 
 
 ---
 
-[Next Chapter](TipsForVsCode.md)
+[Nächstes Kapitel](TipsForVsCode.md)
 
-[Previous Chapter](GettingStartedWithVSCode.md)
+[Vorheriges Kapitel](GettingStartedWithVSCode.md)
 
-[Overview](../README.md)
+[Überblick](../README.md)
 
-by [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/phil1436)
