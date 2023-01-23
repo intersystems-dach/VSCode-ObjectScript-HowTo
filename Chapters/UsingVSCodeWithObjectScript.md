@@ -58,7 +58,7 @@ After successfully adding a new Server you can see the Server under `All Servers
 
 ## Store Credentials
 
-Everytime you close Visual Studio Code and reopen it, it will prompt you a message with
+Everytime you close Visual Studio Code and reopen it, it will prompt you a message to log in with your credentials. To avoid this you can store your credentials:
 
 * Store Username:
   * In the [Command Palette](KeyboardShortcuts.md#command-palette) type *Preferences: Open User Settings (JSON)*. Here you can see your server connection in a JSON format.
