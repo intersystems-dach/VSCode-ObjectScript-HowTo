@@ -1,62 +1,61 @@
-# Using Visual Studio Code with InterSystems ObjectScript
+# Visual Studio Code mit InterSystems ObjectScript nutzen
 
-InterSystems ObjectScript is a programming language that is used in InterSystems databases such as InterSystems IRIS and Caché. Visual Studio Code (VSCode) is a popular text editor that can be used to write and edit ObjectScript code.
-
----
-
-* [Install InterSystems Extensions](#install-intersystems-extensions)
-* [Set ObjectScript Color Theme](#set-objectscript-color-theme)
-* [Connect to a Server](#connect-to-a-server)
-* [Store Credentials](#store-credentials)
-* [Open a Namespace](#open-a-namespace)
-  * [Open a Namespace via InterSystems Tools](#open-a-namespace-via-intersystems-tools)
-  * [Open a Namespace via the Explorer](#open-a-namespace-via-the-explorer)
-* [Writing ObjectScript Code](#writing-objectscript-code)
-* [Use SQLTools](#use-sqltools)
+InterSystems ObjectScript ist eine Programmiersprache, die in InterSystems-Datenbanken wie InterSystems IRIS und Caché verwendet wird. Visual Studio Code (VSCode) ist ein beliebter Texteditor, der zum Schreiben und Bearbeiten von ObjectScript-Code verwendet werden kann.
 
 ---
 
-## Install InterSystems Extensions
-
-Go to the Activity Bar on the far left-hand side and click on the  `Extensions` <img src = "https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/06/VSCode-Extension-Icon-.png" tile = "Extensions Icon" width = "3%"/> tap.
-
-Type in the search bar *InterSystems* and then install the [InterSystems ObjectScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=intersystems-community.objectscript-pack) <img src = "https://intersystems-community.gallerycdn.vsassets.io/extensions/intersystems-community/objectscript-pack/1.0.3/1612388253024/Microsoft.VisualStudio.Services.Icons.Default" title = "OEP Icon" width = "3%"/>. This Extension pack includes:
-
-* [InterSystems ObjectScript](https://marketplace.visualstudio.com/items?itemName=intersystems-community.vscode-objectscript): Adds InterSystems ObjectScript language support.
-* [InterSystems Language Server](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server): Adds InterSystems ObjectScript language server.
-* [InterSystems Server Manager](https://marketplace.visualstudio.com/items?itemName=intersystems-community.servermanager): Define connections to InterSystems servers. Browse and manage those servers.
-
----
-
-## Set ObjectScript Color Theme
-
-To provide correct color highlighting when working with Objectscript choose a InterSystems Color Theme.
-
-* Navigate to `File > Preferences > Color Theme`
-* Choose `InterSystems Default Dark` or `InterSystems Default Light`.
+* [InterSystems Extensions installieren](#intersystems-extensions-installieren)
+* [ObjectScript Farbschema wählen](#objectscript-farbschema-wählen)
+* [Zu einem Server verbinden](#zu-einem-server-verbinden)
+* [Anmeldeinformationen speichern](#anmeldeinformationen-speichern)
+* [Einen Namespace öffnen](#einen-namespace-öffnen)
+  * [Einen Namespace mit InterSystems Tools öffnen](#einen-namespace-mit-intersystems-tools-öffnen)
+  * [Einen Namespace mit dem Explorer öffnen](#einen-namespace-mit-dem-explorer-öffnen)
+* [ObjectScript Code schreiben](#objectscript-code-schreiben)
+* [SQLTools benutzen](#sqltools-benutzen)
 
 ---
 
-## Connect to a Server
+## InterSystems Extensions installieren
+Gehen Sie zur Activity Bar auf der linken Seite und klicken Sie auf `Extensions` <img src = "https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/06/VSCode-Extension-Icon-.png" tile = "Extensions Icon" width = "3%"/>.
 
-* Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
-* You can see default configuartions under `All Servers`
-* If you want to create a new Server connection click on the `+` button in the top and then fill in the connection properties:
+Geben Sie in die Suchleiste *InterSystems* ein und installieren Sie dann das [InterSystems ObjectScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=intersystems-community.objectscript-pack) <img src = "https://intersystems-community.gallerycdn.vsassets.io/extensions/intersystems-community/objectscript-pack/1.0.3/1612388253024/Microsoft.VisualStudio.Services.Icons.Default" title = "OEP Icon" width = "3%"/>. Dieses Extension Pack enthält:
 
-  * *Name of new server definition*: Give your Connection a name.
-  * *Optional Description*: A optional description for your server. Tap `Enter` to leave empty.
-  * *Hostname or IP address of web server*: The Hostname or IP Address of your server.
-  * *Port of web server*: The Port of the web server.
-  * *Username*: The Username of your Iris user you want to connect from.
-  * *Confirm connection type*: *http* or *https* connection type.
-
-After successfully adding a new Server you can see the Server under `All Servers`.
-
-> Tip: You can edit your Server Properties under: `...` in the top right corner `> Edit Settings > InterSystems: Servers > Edit in settings.json`.
+* [InterSystems ObjectScript](https://marketplace.visualstudio.com/items?itemName=intersystems-community.vscode-objectscript): Fügt Unterstützung für die Sprache InterSystems ObjectScript hinzu.
+* [InterSystems Language Server](https://marketplace.visualstudio.com/items?itemName=intersystems.language-server): Fügt InterSystems ObjectScript language server hinzu.
+* [InterSystems Server Manager](https://marketplace.visualstudio.com/items?itemName=intersystems-community.servermanager): Definieren Sie Verbindungen zu InterSystems-Servern. Durchsuchen und verwalten Sie diese Server.
 
 ---
 
-## Store Credentials
+## ObjectScript Farbschema wählen
+
+Um eine korrekte Farbhervorhebung bei der Arbeit mit Objectscript zu gewährleisten, wählen Sie ein InterSystems Farbschema.
+
+* Navigieren Sie zu `File > Preferences > Color Theme`
+* Wählen Sie `InterSystems Default Dark` oder `InterSystems Default Light` aus.
+
+---
+
+## Zu einem Server verbinden
+
+* Öffnen Sie `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> in der Activity Bar.
+* Sie können die Standardkonfigurationen unter `All Servers` sehen.
+* Wenn Sie eine neue Serververbindung erstellen möchten, klicken Sie oben auf die Schaltfläche `+` und geben Sie dann die Verbindungseigenschaften ein:
+
+  * *Name of new server definition*: Geben Sie Ihrer Verbindung einen Namen.
+  * *Optional Description*: Eine optionale Beschreibung für Ihren Server. Tippen Sie auf `Enter`, um es leer zu lassen.
+  * *Hostname or IP address of web server*: Der Hostname oder die IP-Adresse Ihres Servers.
+  * *Port of web server*: Der Port des Webservers.
+  * *Username*: Der Benutzername Ihres IRIS-Benutzers, von dem aus Sie sich verbinden möchten.
+  * *Confirm connection type*: *http* oder *https* Verbindungstyp.
+
+Nach erfolgreichem Hinzufügen eines neuen Servers können Sie den Server unter `All Servers` sehen.
+
+> Tipp: Sie können Ihre Servereigenschaften bearbeiten unter: `...` in der oberen rechten Ecke `> Edit Settings > InterSystems: Servers > Edit in settings.json`.
+
+---
+
+## Anmeldeinformationen speichern
 
 Everytime you close Visual Studio Code and reopen it, it will prompt you a message with
 
@@ -88,9 +87,9 @@ Example:
 
 ---
 
-## Open a Namespace
+## Einen Namespace öffnen
 
-### Open a Namespace via InterSystems Tools
+### Einen Namespace mit InterSystems Tools öffnen
 
 * Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
 * Choose a Server and click on it.
@@ -100,7 +99,7 @@ Example:
   * Click on the *eye-icon* next to your namespace to view the namespace in your workspace.
   * Click on the *pen-icon* next to your namespace to edit the namespace in your workspace.
 
-### Open a Namespace via the Explorer
+### Einen Namespace mit dem Explorer öffnen
 
 * Open the `Explorer` tap in the Activity Bar.
 * Do a right-click and choose `Add Server Namespace to Workspace`.
@@ -109,7 +108,7 @@ Example:
 
 ---
 
-## Writing ObjectScript Code
+## ObjectScript Code schreiben
 
 Once you have connected to a Namespace, you can begin writing ObjectScript code. Here are the basic steps for doing so:
 
@@ -121,7 +120,7 @@ You can also create other file with the extension .mac, .inc etc.
 
 ---
 
-## Use SQLTools
+## SQLTools benutzen
 
 When you want to have a look inside your database without leaving Visual Studio Code, you can use the SQLTools extension.
 

@@ -10,7 +10,7 @@ Visual Studio Code (VSCode) ist ein leichtgewichtiger und dennoch leistungsstark
 * [Code schreiben und editieren](#code-schreiben-und-editieren)
 * [Workspaces](#workspaces)
 * [Einstellungen](#einstellungen)
-* [Farbeschema](#farbeschema)
+* [Farbschema](#farbschema)
 * [Debuggen und Testen](#debuggen-und-testen)
 * [Quellcodekontrolle](#quellcodekontrolle)
 
@@ -98,9 +98,9 @@ Beim Bearbeiten von Einstellungen im *Workspace* Tap werden alle Einstellungen n
 
 ---
 
-## Farbeschema
+## Farbschema
 
-Sie können das Aussehen der Visual Studio Code-Oberfläche an Ihre Bedürfnisse anpassen. Navigieren Sie zu `File > Preferences > Color Theme`, dort können Sie aus einem vorinstallierten Farbeschema wählen oder mit `+ Browse Additional Color Themes...` ein neues Farbschema installieren.
+Sie können das Aussehen der Visual Studio Code-Oberfläche an Ihre Bedürfnisse anpassen. Navigieren Sie zu `File > Preferences > Color Theme`, dort können Sie aus einem vorinstallierten Farbschema wählen oder mit `+ Browse Additional Color Themes...` ein neues Farbschema installieren.
 
 ---
 
