@@ -117,7 +117,7 @@ Once you have connected to a Namespace, you can begin writing ObjectScript code.
 * Write your ObjectScript code in this file.
 * The class will be compiled after you saved the file.
 
-You can also create other file with the extension .mac, .inc etc.
+You can also create other files with the extension .mac, .inc etc.
 
 ---
 
