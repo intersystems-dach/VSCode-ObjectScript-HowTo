@@ -57,13 +57,13 @@ Nach erfolgreichem Hinzufügen eines neuen Servers können Sie den Server unter 
 
 ## Anmeldeinformationen speichern
 
-Everytime you close Visual Studio Code and reopen it, it will prompt you a message with
+Jedes Mal, wenn Sie Visual Studio Code schließen und erneut öffnen, werden Sie aufgefordert, sich mit Ihren Anmeldeinformationen anzumelden. Um dies zu vermeiden, können Sie Ihre Anmeldeinformationen speichern:
 
-* Store Username:
-  * In the [Command Palette](KeyboardShortcuts.md#command-palette) type *Preferences: Open User Settings (JSON)*. Here you can see your server connection in a JSON format.
-  * Choose the server you want to add your username and add a property called *username*
+* Benutzernamen speichern:
+  * In dem [Command Palette](KeyboardShortcuts.md#command-palette) schreibe *Preferences: Open User Settings (JSON)*. Hier sehen Sie Ihre Serververbindung im JSON-Format.
+  * Wählen Sie den Server aus, dem Sie Ihren Benutzernamen hinzufügen möchten, und fügen Sie eine Eigenschaft namens *username* hinzu.
 
-Example:
+Beispiel:
 
 ````json
 "default~iris": {
@@ -75,15 +75,15 @@ Example:
       }
 ````
 
-* Store password
-  * Next time you open Visual Studio code, it will prompt you a dialog and ask for a password
-  * Type in your password
-  * Click on the *key* button in the top right corner of the dialog to store the password
-* Delete password
-  * Navigate to *Accounts* in the Activity Bar
-  * Select your user
-  * Click on `Sign Out`
-  * select `Delete` when asked to delete password
+* Passwort speichern
+  * Wenn Sie Visual Studio Code das nächste mal öffnen, werden Sie zu einem Dialogfeld aufgefordert und nach einem Passwort gefragt
+  * Geben Sie Ihr Passwort ein
+  * Klicken Sie auf die *Schlüssel*-Schaltfläche in der oberen rechten Ecke des Dialogs, um das Passwort zu speichern
+* Passwort löschen
+  * Navigieren Sie zu *Accounts* in der Activity Bar
+  * Wählen Sie Ihren Benutzer aus
+  * Wählen Sie `Sign Out`
+  * Wählen Sie `Delete` wenn Sie aufgefordert werden, das Passwort zu löschen
 
 ---
 
@@ -91,32 +91,32 @@ Example:
 
 ### Einen Namespace mit InterSystems Tools öffnen
 
-* Open the `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> tap in the Activity Bar.
-* Choose a Server and click on it.
-  * If the connection is succesfully you will see a new directory named *Namespaces*.
-  * If the connection failed you will see *Unavailable at \<current-time\>*.
-* Choose a namespace.
-  * Click on the *eye-icon* next to your namespace to view the namespace in your workspace.
-  * Click on the *pen-icon* next to your namespace to edit the namespace in your workspace.
+* Öffnen Sie `InterSystems Tools` <img src = "../imgs/InterSystemsToolsIcon.png" title = "InterSystemsToolsIcon" width = "3%"/> in der Activity Bar.
+* Wählen Sie einen Server und klicken Sie darauf.
+  * Wenn die Verbindung erfolgreich ist, sehen Sie ein neues Verzeichnis namens *Namespaces*.
+  * Wenn die Verbindung fehlgeschlagen ist, sehen Sie *Unavailable at \<current-time\>*.
+* Wählen Sie einen Namespace.
+  * Klicken Sie auf das *Augen-Symbol* neben Ihrem Namespace, um den Namespace in Ihrem Workspace anzuzeigen.
+  * Klicken Sie auf das *Stift-Symbol* neben Ihrem Namespace, um den Namespace in Ihrem Workspace zu bearbeiten.
 
 ### Einen Namespace mit dem Explorer öffnen
 
-* Open the `Explorer` tap in the Activity Bar.
-* Do a right-click and choose `Add Server Namespace to Workspace`.
-* Now choose your Server or create a new one with the `+` in the top right corner of the dialog.
-* Choose a Namespace.
+* Öffnen Sie den `Explorer` in der Activity Bar.
+* Machen Sie einen Rechtsklick und wählen Sie `Add Server Namespace to Workspace`.
+* Wählen Sie nun Ihren Server aus oder erstellen Sie einen neuen mit dem `+` Knopf in der oberen rechten Ecke des Dialogs.
+* Wähle Sie einen Namespace.
 
 ---
 
 ## ObjectScript Code schreiben
 
-Once you have connected to a Namespace, you can begin writing ObjectScript code. Here are the basic steps for doing so:
+Nachdem Sie eine Verbindung zu einem Namespace hergestellt haben, können Sie mit dem Schreiben von ObjectScript-Code beginnen. Hier sind die grundlegenden Schritte dafür:
 
-* Create a new file with the `.cls` file extension (for example, `MyPackage.MyClass.cls`)
-* Write your ObjectScript code in this file.
-* The class will be compiled after you saved the file.
+* Erstellen Sie eine neue Datei mit der Dateiendung `.cls`.(z.B.  `MyPackage.MyClass.cls`)
+* Schreiben Sie Ihren ObjectScript-Code in diese Datei.
+* Die Klasse wird kompiliert, nachdem Sie die Datei gespeichert haben.
 
-You can also create other file with the extension .mac, .inc etc.
+Sie können auch andere Dateien mit der Endung .mac, .inc usw. erstellen.
 
 ---
 
