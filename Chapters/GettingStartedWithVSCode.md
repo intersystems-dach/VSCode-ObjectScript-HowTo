@@ -1,6 +1,6 @@
-# Getting Started with Visual Studio Code
+# Erste Schritte mit Visual Studio Code
 
-Visual Studio Code (VSCode) is a lightweight yet powerful source code editor developed by Microsoft for Windows, Linux, and macOS. It comes with built-in support for debugging, source control, and development tasks such as linting and building. In this guide, we will walk through the basics of using Visual Studio Code to write, debug, and manage your code.
+Visual Studio Code (VSCode) ist ein leichtgewichtiger und dennoch leistungsstarker Quellcode-Editor, der von Microsoft für Windows, Linux und macOS entwickelt wurde. Er verfügt über integrierte Unterstützung für Debugging, Quellcodekontrolle und Entwicklungsaufgaben wie Linting und Build. In dieser Dokumentation werden wir die Grundlagen der Verwendung von Visual Studio Code zum Schreiben, Debuggen und Verwalten Ihres Codes erläutern.
 
 ---
 
@@ -18,7 +18,7 @@ Visual Studio Code (VSCode) is a lightweight yet powerful source code editor dev
 
 ## Installiere Visual Studio Code
 
-Bevor du anfangen kannst Visual Studio Code zu benutzen, musst du die passend Version für dein Betriebsystem [downloaden und installieren](https://code.visualstudio.com/download). Wenn die Installation abgeschlossen ist, kannst du Visual Studio Code starten, indem das Symbol auf deinem Desktop anklickst oder im Start Menü (Windows) oder Spotlight (macOS) nach "Visual Studio Code" suchst.
+Bevor du anfangen kannst Visual Studio Code zu benutzen, musst du die passende Version für dein Betriebsystem [downloaden und installieren](https://code.visualstudio.com/download). Wenn die Installation abgeschlossen ist, kannst du Visual Studio Code starten, indem das Symbol auf deinem Desktop anklickst oder im Start Menü (Windows) oder Spotlight (macOS) nach "Visual Studio Code" suchst.
 
 ---
 
@@ -36,11 +36,11 @@ Die Visual Studio Code Oberfläche teilt sich in ein paar Hauptbereiche auf:
 
 ### Activity Bar
 
-The Activity Bar is a core navigation surface in Visual Studio Code located on the left side of the window, provides access to various views and features such as the file explorer and debug console.
+Die Activity Bar ist eine der Hauptnavigationsflächen in Visual Studio Code, die sich auf der linken Seite des Fensters befindet und Zugriff auf verschiedene Ansichten und Funktionen, wie den Datei-Explorer und die Debug-Konsole, bietet.
 
 ### Primary Sidebar
 
-Will open the content of a Activity Bar Item.
+Hier werden die Inhalte der Activity Bar dargestellt.
 
 ### Secondary Sidebar
 
@@ -60,7 +60,7 @@ Located at the bottom of the window, provides information and shortcuts for comm
 
 ---
 
-## Writing and editing code
+## Code schreiben und editieren
 
 Visual Studio Code has many powerful features for writing and editing code, including:
 
@@ -78,27 +78,27 @@ Select `File > Open File / Open Folder` to open a file or a folder as a workspac
 
 Select `File > Add Folder to Workspace...` then select a folder to add to your current Workspace.
 
-### Save Workspace
+### Workspace speichern
 
 So you dont have to open all your folders in your workspace everytime you open Visual Studio Code, you can save your Workspace as a file. Select `File > Save Workspace As...` and choose a destination and name for your workspace file. Afterwards a *.code-workspace* file was created. You can then open the workspace by just open the file or via `File > Open Workspace from File...`
 
 ---
 
-## Settings
+## Einstellungen
 
-Open Settings via `File > Preferences > Settings`.
+Öffne die Einstellungen mit `File > Preferences > Settings`.
 
-### User Settings
+### User Einstellungen
 
 When editing settings in the *User* tap all settings apply globally across all Visual Studio Code Workspaces.
 
-### Workspace Settings
+### Workspace Einstellungen
 
 When editing settings in the *Workspace* tap all settings applied only effects the current opened workspace.
 
 ---
 
-## Color Theme
+## Farbe
 
 You can customize the appearance of the Visual Studio Code interface to your needs. Navigate to `File > Preferences > Color Theme` there you can choose from a preinstalled Color Theme or install a new Color Theme with `+ Browse Additional Color Themes...`
 
