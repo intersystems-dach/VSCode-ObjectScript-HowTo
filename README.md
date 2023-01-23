@@ -30,14 +30,14 @@ Fang **[hier](Chapters/GettingStartedWithVSCode.md)** an zu lesen.
   * [Einen Namespace öffnen](Chapters/UsingVSCodeWithObjectScript.md#einen-namespace-öffnen)
   * [ObjectScript Code schreiben](Chapters/UsingVSCodeWithObjectScript.md#objectscript-code-schreiben)
   * [SQLTools benutzen](Chapters/UsingVSCodeWithObjectScript.md#sqltools-benutzen)
-* [Tips for Using Visual Studio Code](Chapters/TipsForVsCode.md)
-* [Visual Studio Code Keyboard Shortcuts](Chapters/KeyboardShortcuts.md)
+* [Tipps zur Verwendung von Visual Studio Code](Chapters/TipsForVsCode.md)
+* [Tastenkombinationen für Visual Studio Code](Chapters/KeyboardShortcuts.md)
   * [Keyboard reference sheet](Chapters/KeyboardShortcuts.md#keyboard-reference-sheet)
   * [Command Palette](Chapters/KeyboardShortcuts.md#command-palette)
   * [View](Chapters/KeyboardShortcuts.md#view)
   * [Navigation](Chapters/KeyboardShortcuts.md#navigation)
   * [Edit](Chapters/KeyboardShortcuts.md#edit)
-* [Essential Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
+* [Die wichtigestens Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
 
 ---
 
