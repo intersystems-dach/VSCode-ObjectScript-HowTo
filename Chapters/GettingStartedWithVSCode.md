@@ -4,15 +4,15 @@ Visual Studio Code (VSCode) ist ein leichtgewichtiger und dennoch leistungsstark
 
 ---
 
-* [Install Visual Studio Code](#install-visual-studio-code)
-* [Opening a project](#opening-a-project)
-* [The Visual Studio Code interface](#the-visual-studio-code-interface)
-* [Writing and editing code](#writing-and-editing-code)
+* [Installiere Visual Studio Code](#installiere-visual-studio-code)
+* [Ein Projekt öffnen](#ein-projekt-öffnen)
+* [Die Visual Studio Code Oberfläche](#die-visual-studio-code-oberfläche)
+* [Code schreiben und editieren](#code-schreiben-und-editieren)
 * [Workspaces](#workspaces)
-* [Settings](#settings)
-* [Color Theme](#color-theme)
-* [Debugging and testing](#debugging-and-testing)
-* [Source Control](#source-control)
+* [Einstellungen](#einstellungen)
+* [Farbeschema](#farbeschema)
+* [Debuggen und Testen](#debuggen-und-testen)
+* [Quellcodekontrolle](#quellcodekontrolle)
 
 ---
 
@@ -44,43 +44,43 @@ Hier werden die Inhalte der Activity Bar dargestellt.
 
 ### Secondary Sidebar
 
-A secondary sidebar. You can drag items from other containers to here, to see more at a time.
+Eine zweite Seitenansicht. Hier können Inhalte von anderen Bereichen hineingezogen werden, um einen besseren Überblick zu haben.
 
 ### Editor
 
-Here you will spend most of your time, writing and editing code.
+Hier kann man code schreiben und editieren.
 
 ### Panel
 
-The Panel is an other area to view containers.
+Das Panel ist eine andere Ansicht um Inhalt anzeigen zu lassen.
 
 ### Status Bar
 
-Located at the bottom of the window, provides information and shortcuts for common actions.
+Am unteren Rand des Fensters finden Sie Informationen und Kurzzugriffe für gängige Aktionen.
 
 ---
 
 ## Code schreiben und editieren
 
-Visual Studio Code has many powerful features for writing and editing code, including:
+Visual Studio Code verfügt über viele leistungsstarke Funktionen zum Schreiben und Bearbeiten von Code, darunter:
 
-* **Syntax highlighting**: Visual Studio Code automatically recognizes the type of code you're working with and applies color coding to make it easier to read and write.
-* **IntelliSense**: Visual Studio Code provides intelligent code completion and suggestions for many languages, making it easier to write code quickly and correctly.
-* **Code snippets**: Visual Studio Code includes a large collection of code snippets that can be inserted into your code with a few keystrokes, saving you time and effort.
+* **Syntax highlighting**: Visual Studio Code erkennt automatisch die Art des Codes, mit dem Sie arbeiten, und wendet eine Farbcodierung an, um das Lesen und Schreiben zu erleichtern.
+* **IntelliSense**: Visual Studio Code bietet intelligente Code-Vervollständigung und Vorschläge für viele Sprachen, die das schnelle und korrekte Schreiben von Code erleichtern.
+* **Code snippets**: Visual Studio Code enthält eine große Sammlung von Codeschnipseln, die mit wenigen Tastendrücken in Ihren Code eingefügt werden können, wodurch Sie Zeit und Mühe sparen.
 
 ---
 
 ## Workspaces
 
-Select `File > Open File / Open Folder` to open a file or a folder as a workspace.
+Wählen Sie `File > Open File / Open Folder` um eine Datei oder Ordner als Workspace zu öffnen.
 
-### Add to current Workspace
+### Zum aktuellen Workspace hinzufügen
 
-Select `File > Add Folder to Workspace...` then select a folder to add to your current Workspace.
+Wählen Sie `File > Add Folder to Workspace...` und wählen Sie dann einen Ordner aus, den Sie zu Ihrem aktuellen Workspace hinzufügen möchten.
 
 ### Workspace speichern
 
-So you dont have to open all your folders in your workspace everytime you open Visual Studio Code, you can save your Workspace as a file. Select `File > Save Workspace As...` and choose a destination and name for your workspace file. Afterwards a *.code-workspace* file was created. You can then open the workspace by just open the file or via `File > Open Workspace from File...`
+Damit Sie nicht jedes Mal alle Ordner in Ihrem Workspace öffnen müssen, wenn Sie Visual Studio Code öffnen, können Sie Ihren Arbeitsbereich als Datei speichern. Wählen Sie `File > Save Workspace As...` und wählen Sie ein Ziel und einen Namen für Ihre Workspacedatei. Anschließend wird eine *.code-workspace* Datei erstellt. Sie können den Workspace dann öffnen, indem Sie einfach die Datei öffnen oder über `File > Open Workspace from File...` die Datei auswählen.
 
 ---
 
@@ -90,33 +90,33 @@ So you dont have to open all your folders in your workspace everytime you open V
 
 ### User Einstellungen
 
-When editing settings in the *User* tap all settings apply globally across all Visual Studio Code Workspaces.
+Beim Bearbeiten von Einstellungen im *User* Tap gelten alle Einstellungen global für alle Visual Studio Code Workspaces.
 
 ### Workspace Einstellungen
 
-When editing settings in the *Workspace* tap all settings applied only effects the current opened workspace.
+Beim Bearbeiten von Einstellungen im *Workspace* Tap werden alle Einstellungen nur auf den aktuell geöffneten Workspace angewendet werden.
 
 ---
 
-## Farbe
+## Farbeschema
 
-You can customize the appearance of the Visual Studio Code interface to your needs. Navigate to `File > Preferences > Color Theme` there you can choose from a preinstalled Color Theme or install a new Color Theme with `+ Browse Additional Color Themes...`
-
----
-
-## Debugging and testing
-
-Visual Studio Code includes built-in support for debugging many languages, including JavaScript, TypeScript, and Python. To start debugging, you need to configure a "launch.json" file, which tells Visual Studio Code how to start and attach to your application. Once you have a launch configuration set up, you can start debugging by clicking the play button in the debug view or by pressing F5.
+Sie können das Aussehen der Visual Studio Code-Oberfläche an Ihre Bedürfnisse anpassen. Navigieren Sie zu `File > Preferences > Color Theme`, dort können Sie aus einem vorinstallierten Farbeschema wählen oder mit `+ Browse Additional Color Themes...` ein neues Farbschema installieren.
 
 ---
 
-## Source Control
+## Debuggen und Testen
 
-Visual Studio Code support source control systems like Git, SVN, and TFS. The source control icon will appear on the left sidebar once you open a folder that is a git repository, allowing you to see the changes, make commits and handle merge conflicts, among other functionalities.
+Visual Studio Code bietet integrierte Unterstützung für das Debugging vieler Sprachen, darunter JavaScript, TypeScript und Python. Um mit dem Debuggen zu beginnen, müssen Sie eine "launch.json"-Datei konfigurieren, die Visual Studio Code mitteilt, wie die Anwendung gestartet und angehängt werden soll. Sobald Sie eine Startkonfiguration eingerichtet haben, können Sie das Debuggen starten, indem Sie in der Debug-Ansicht auf die Schaltfläche "Play" klicken oder F5 drücken.
 
 ---
 
-These are just a few of the many features that Visual Studio Code has to offer. With its powerful editing capabilities, built-in support for debugging and testing, and integration with source control, Visual Studio Code is a great choice for a wide range of development tasks. As you become more familiar with the tool, you'll find that it can help you work more efficiently and effectively.
+## Quellcodekontrolle
+
+Visual Studio Code unterstützt Quellcodekontrollsysteme wie Git, SVN und TFS. Das Symbol für die Quellcodekontrolle wird in der linken Seitenleiste angezeigt, sobald Sie einen Ordner öffnen, der ein Git-Repository ist. So können Sie unter anderem die Änderungen sehen, Übertragungen vornehmen und Konflikte beim Zusammenführen behandeln.
+
+---
+
+Dies sind nur einige der vielen Funktionen, die Visual Studio Code zu bieten hat. Mit seinen leistungsstarken Bearbeitungsfunktionen, der integrierten Unterstützung für Debugging und Tests und der Integration in die Quellcodekontrolle ist Visual Studio Code eine hervorragende Wahl für eine Vielzahl von Entwicklungsaufgaben. Wenn Sie sich mit dem Tool vertraut machen, werden Sie feststellen, dass es Ihnen helfen kann, effizienter und effektiver zu arbeiten.
 
 ---
 
