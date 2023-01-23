@@ -122,16 +122,16 @@ Sie können auch andere Dateien mit der Endung .mac, .inc usw. erstellen.
 
 ## SQLTools benutzen
 
-When you want to have a look inside your database without leaving Visual Studio Code, you can use the SQLTools extension.
+Wenn Sie einen Blick in Ihre Datenbank werfen möchten, ohne Visual Studio Code zu verlassen, können Sie die SQLTools-Extension verwenden.
 
-* Install the [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) extension
-* Install the [SQLTools InterSystems IRIS](https://marketplace.visualstudio.com/items?itemName=intersystems-community.sqltools-intersystems-driver)
-* Navigate to the SQLTools tap <img src ="https://raw.githubusercontent.com/intersystems-community/sqltools-intersystems-driver/master/docs/assets/img/activitybar.png" title = "SQLTools icon"> in the Activity Bar and choose `Add New Connection`
-* Choose *InterSystems IRIS* and fill out the connection properties
-* Choose `Connect Now` and you will see a new connection under *Connections*
-* Now you can create a new SQl file and run the Query on your connection with `Run on active connection`
+* Installieren Sie die [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) Extension
+* Installieren Sie die [SQLTools InterSystems IRIS](https://marketplace.visualstudio.com/items?itemName=intersystems-community.sqltools-intersystems-driver) Extension
+* Navigieren Sie zum Tap SQLTools <img src ="https://raw.githubusercontent.com/intersystems-community/sqltools-intersystems-driver/master/docs/assets/img/activitybar.png" title = "SQLTools icon"> in der Activity Bar und wählen Sie `Add New Connection`
+* Wählen Sie *InterSystems IRIS* und füllen Sie die Verbindungseigenschaften aus
+* Wählen Sie `Connect Now` und Sie sehen eine neue Verbindung unter *Connections*
+* Jetzt können Sie eine neue SQL-Datei erstellen und die Abfrage auf Ihrer Verbindung mit `Run on active connection` ausführen
 **OR**
-* Browse through your tables and views, by unfolding the connection, and then view the table or view by clicking on the magnifyingglasses icon.
+* Durchsuchen Sie Ihre Tabellen und Views, indem Sie die Verbindung aufklappen, und zeigen Sie dann die Tabelle oder Ansicht an, indem Sie auf das Lupensymbol klicken.
 
 ---
 
