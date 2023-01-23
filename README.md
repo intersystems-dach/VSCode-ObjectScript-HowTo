@@ -41,6 +41,10 @@ Start reading **[here](Chapters/GettingStartedWithVSCode.md)**.
 
 ---
 
+View the german version [here](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/german).
+
+---
+
 by [Philipp B.](https://github.com/phil1436)
 
 powered by [InterSystems](https://www.intersystems.com/).
