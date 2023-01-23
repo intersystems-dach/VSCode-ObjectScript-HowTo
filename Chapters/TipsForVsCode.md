@@ -1,78 +1,78 @@
-# Tips for Using Visual Studio Code
+# Tipps zur Verwendung von Visual Studio Code
 
-Here are a few tips to help you get the most out of Visual Studio Code.
+Hier sind ein paar Tipps, die Ihnen dabei helfen sollen, Visual Studio Code optimal zu nutzen.
 
 ---
 
 ## Editor Playground
 
-If you just getting started with Visual Studio Code you can try the *Editor Playground* under `Help > Editor Playground`. Here you learn how to use some of the powerful [code editing features](https://code.visualstudio.com/docs/editor/codebasics).
+Wenn Sie gerade erst mit Visual Studio Code beginnen, können Sie den *Editor Playground* unter `Help > Editor Playground` ausprobieren. Hier erfahren Sie, wie Sie einige der leistungsstarken [Codebearbeitungsfunktionen](https://code.visualstudio.com/docs/editor/codebasics) verwenden.
 
-## Use the Command Palette
+## Command Palette
 
-The Command Palette is a powerful tool that allows you to access almost any feature or command in Visual Studio Code quickly and easily. Here you also can look up quickly the keybindings in case you forgt one. To open the Command Palette, press `Ctrl + Shift + P` (Windows/Linux) or `Cmd + Shift + P` (macOS).
+Die Command Palette ist ein leistungsstarkes Tool, mit dem Sie schnell und einfach auf fast alle Funktionen oder Befehle in Visual Studio Code zugreifen können. Hier können Sie auch schnell die Tastenbelegungen nachschlagen, falls Sie eine vergessen haben. Um die Command Palette zu öffnen, drücken Sie `Ctrl Shift P` (Windows/Linux) oder `Cmd Shift P` (macOS).
 
-## Use the Built-in Terminal
+## Verwenden Sie das integrierte Terminal
 
-Visual Studio Code includes a built-in terminal that you can use to run command-line tools, such as git and npm. To open the terminal, press `Ctrl + Shift + Ö` (Windows/Linux) or `Cmd + Shift + Ö` (macOS).
+Visual Studio Code enthält ein integriertes Terminal, mit dem Sie Befehlszeilentools wie git und npm ausführen können. Um das Terminal zu öffnen, drücken Sie `Ctrl Shift Ö` (Windows/Linux) oder `Cmd Shift Ö` (macOS).
 
-## Use Code Snippets
+## Verwenden Sie Codeschnipsel
 
-Visual Studio Code includes a wide variety of built-in code snippets that can save you time when writing code. For example, you can type "for" and then press `Ctrl + Space` (Windows/Linux) or `Cmd + Space` (macOS) to quickly create a for loop. You can also create your own custom code snippets by going to `File > Preferences > Configure User Snippets`.
+Visual Studio Code enthält eine Vielzahl integrierter Codeausschnitte, mit denen Sie beim Schreiben von Code Zeit sparen können. Sie können zum Beispiel "for" eingeben und dann `Ctrl Space` (Windows/Linux) oder `Cmd Space` (macOS) drücken, um schnell eine for-Schleife zu erstellen. Sie können auch Ihre eigenen benutzerdefinierten Codeausschnitte erstellen, indem Sie zu `File > Preferences > Configure User Snippets` gehen.
 
-## Customize the Theme
+## Passen Sie das Farbschema an
 
-Visual Studio Code includes several built-in themes that you can use to customize the look and feel of the editor. You can change the theme by going to `File > Preferences > Color Theme`. To find more themes you can use the marketplace.
+Visual Studio Code enthält mehrere integrierte Farbschema, mit denen Sie das Erscheinungsbild des Editors anpassen können. Sie können das Farbschema ändern, indem Sie zu `File > Preferences > Color Theme` gehen. Um weitere Farbschemen zu finden, können Sie den Marktplatz verwenden.
 
-## Use Extensions
+## Extensions benutzen
 
-Visual Studio Code has a vast ecosystem of [extensions](https://marketplace.visualstudio.com/) that add new features and functionality to the editor. You can browse and install extensions by going to `File > Extensions`. View [Essential visual Studio Code Extensions](EssentialExtensions.md).
+Visual Studio Code verfügt über ein riesiges Ökosystem von [Extensions](https://marketplace.visualstudio.com/), die dem Editor neue Features und Funktionen hinzufügen. Sie können Erweiterungen suchen und installieren, indem Sie zu `File > Extensions` gehen. Sehen Sie sich auch [Die wichtigestens Visual Studio Code Extensions](EssentialExtensions.md) an.
 
-## Learn the Keyboard Shortcuts
+## Lernen Sie die Tastenkombinationen
 
-Visual Studio Code has a large number of keyboard shortcuts that can help you work faster and more efficiently. You can view the full list of keyboard shortcuts by going to `File > Preferences > Keyboard Shortcuts`, where you also can customize the keyboard shortcuts. View [Visual Studio Code Keyboard Shortcuts](KeyboardShortcuts.md).
+Visual Studio Code verfügt über eine große Anzahl von Tastenkombinationen, mit denen Sie schneller und effizienter arbeiten können. Sie können die vollständige Liste der Tastenkombinationen anzeigen, indem Sie zu `File > Preferences > Keyboard Shortcuts` gehen, wo Sie auch die Tastaturkürzel anpassen können. Sehen Sie sich auch [Tastenkombinationen für Visual Studio Code](KeyboardShortcuts.md) an.
 
-## Format on Save
+## Beim Speichern formatieren
 
-Its not always easy to keep your code in a good readable condition manually. Thankfully Visual Studio Code provides a formatter for almost every language. To format your file at the same time when you save your file, you can enable the `Format On Save` feature:
+Es ist nicht immer einfach, Ihren Code manuell in einem gut lesbaren Zustand zu halten. Glücklicherweise bietet Visual Studio Code einen Formatierer für fast jede Sprache. Um Ihren Code gleichzeitig mit dem Speichern zu formatieren, können Sie die Funktion `Format On Save` aktivieren:
 
-* Open the Settings under `File > Preferences > Settings` or via `Ctrl + ,`
-* Type *Format On Save*
-* Check the checkbox for `Editor: Format On Save`
+* Öffnen Sie die Einstellungen unter `File > Preferences > Settings` oder über `Strg + ,`
+* Tippen Sie *Format On Save*
+* Aktivieren Sie das Kästchen für `Editor: Format On Save`
 
 ## Sticky Scroll
 
-When working in code with long classes and methods that stretch beyond the vertical size of your screen, it can be difficult to keep track of which scope you’re working in. You may be editing a long method or exploring an unfamiliar codebase. Visual Studio Code now offers a feature to have a better overview of your code: **Sticky Scroll**
+Wenn Sie Code mit langen Klassen und Methoden arbeiten, die über die vertikale Größe Ihres Bildschirms hinausgehen, kann es schwierig sein, den Überblick zu behalten, in welchem ​​Bereich Sie arbeiten. Visual Studio Code bietet jetzt eine Funktion, um einen besseren Überblick über Ihren Code zu haben: **Sticky Scroll**
 
-* Open the Settings under `File > Preferences > Settings` or via `Ctrl + ,`
-* Type *Sticky Scroll*
-* Check the checkbox for `Editor › Sticky Scroll: Enabled`
+* Öffnen Sie die Einstellungen unter `File > Preferences > Settings` oder über `Strg + ,`
+* Tippen Sie *Sticky Scroll*
+* Aktivieren Sie das Kästchen für `Editor › Sticky Scroll: Enabled`
 
-## Customize the settings
+## Passen Sie die Einstellungen an
 
-Visual Studio Code allows you to customize various settings, such as the font size, tab size, and the number of spaces used for indentation. You can access these settings by going to `File > Preferences > Settings` (or `Code > Preferences > Settings` on a Mac). Here, you can edit the settings.json file, which contains all of your Visual Studio Code settings.
+Mit Visual Studio Code können Sie verschiedene Einstellungen anpassen, z. B. die Schriftgröße, die Tabgröße und die Anzahl der für Einzüge verwendeten Leerzeichen. Sie können auf diese Einstellungen zugreifen, indem Sie zu `File > Preferences > Settings` gehen. Hier können Sie die Datei settings.json bearbeiten, die alle Ihre Visual Studio Code-Einstellungen enthält.
 
-Here you can find useful settings as well as
+Hier finden Sie nützliche Einstellungen sowie
 
-* `editor.renderWhitespace`: render whitespaces in your code for better visibility.
-* `editor.tabSize`: customize the size of the tab
-* `editor.fontSize` : customise the size of the font
+* `editor.renderWhitespace`: Rendern Sie Leerzeichen in Ihrem Code für eine bessere Sichtbarkeit.
+* `editor.tabSize`: Passen Sie die Größe des Tabs an
+* `editor.fontSize` : Passen Sie die Größe der Schriftart an
 
 ## Settings Sync
 
-You can sync your settings, keybindings and extensions across all devices with *[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)*. Just log in with your GitHub or Microsoft user.
+Sie können Ihre Einstellungen, Tastenkombinationen und Extensions auf allen Geräten synchronisieren mit *[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)*. Melden Sie sich einfach mit Ihrem GitHub- oder Microsoft-Benutzer an.
 
-## Use code navigation features
+## Verwenden Sie Code-Navigationsfunktionen
 
-Visual Studio Code includes features such as Go to Definition, Find All References, and Peek Definition, which can be useful for navigating through your codebase.
+Visual Studio Code enthält Features wie Go to Definition, Find All References und Peek Definition, die beim Navigieren durch Ihre Codebasis nützlich sein können.
 
-## FiraCode Font
+## FiraCode Schriftart
 
-Install the [FiraCode Font](https://github.com/tonsky/FiraCode) to replace symbols that are encoded with several characters, such as `>=` or `!=`, to one symbol.
+Installieren Sie die [FiraCode Schriftart](https://github.com/tonsky/FiraCode) um Symbole, die mit mehreren Zeichen kodiert sind, wie `>=` oder `!=`, zu einem Zeichen anzeigen zu lassen.
 
-## Create your own Extensions
+## Erstellen Sie Ihre eigenen Extensions
 
-Visual Studio Code offers a wide variety of extensions and there is almost a extension for everthing. But sometimes you run into a problem where no extension exists to solve this problem. That could be the point to start [creating your own extensions](https://code.visualstudio.com/api/get-started/your-first-extension).
+Visual Studio Code bietet eine Vielzahl von Extensions und es gibt fast für alles eine Extension. Aber manchmal stoßen Sie auf ein Problem, bei dem keine Extensions vorhanden ist, um dieses Problem zu lösen. Das könnte der Punkt sein, an dem Sie beginnen [Ihre eigenen Erweiterungen erstellen](https://code.visualstudio.com/api/get-started/your-first-extension).
 
 ---
 

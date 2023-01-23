@@ -17,6 +17,7 @@ InterSystems ObjectScript ist eine Programmiersprache, die in InterSystems-Daten
 ---
 
 ## InterSystems Extensions installieren
+
 Gehen Sie zur Activity Bar auf der linken Seite und klicken Sie auf `Extensions` <img src = "https://i0.wp.com/www.phdata.io/wp-content/uploads/2021/06/VSCode-Extension-Icon-.png" tile = "Extensions Icon" width = "3%"/>.
 
 Geben Sie in die Suchleiste *InterSystems* ein und installieren Sie dann das [InterSystems ObjectScript Extension Pack](https://marketplace.visualstudio.com/items?itemName=intersystems-community.objectscript-pack) <img src = "https://intersystems-community.gallerycdn.vsassets.io/extensions/intersystems-community/objectscript-pack/1.0.3/1612388253024/Microsoft.VisualStudio.Services.Icons.Default" title = "OEP Icon" width = "3%"/>. Dieses Extension Pack enthält:
