@@ -37,7 +37,7 @@ Fang **[hier](Chapters/GettingStartedWithVSCode.md)** an zu lesen.
   * [Ansicht](Chapters/KeyboardShortcuts.md#ansicht)
   * [Navigation](Chapters/KeyboardShortcuts.md#navigation)
   * [Bearbeiten](Chapters/KeyboardShortcuts.md#bearbeiten)
-* [Die wichtigestens Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
+* [Die wichtigsten Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
 
 ---
 
