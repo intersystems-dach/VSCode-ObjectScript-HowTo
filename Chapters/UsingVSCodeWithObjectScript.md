@@ -131,7 +131,7 @@ Wenn Sie einen Blick in Ihre Datenbank werfen möchten, ohne Visual Studio Code 
 * Wählen Sie *InterSystems IRIS* und füllen Sie die Verbindungseigenschaften aus
 * Wählen Sie `Connect Now` und Sie sehen eine neue Verbindung unter *Connections*
 * Jetzt können Sie eine neue SQL-Datei erstellen und die Abfrage auf Ihrer Verbindung mit `Run on active connection` ausführen
-**OR**
+**ODER**
 * Durchsuchen Sie Ihre Tabellen und Views, indem Sie die Verbindung aufklappen, und zeigen Sie dann die Tabelle oder Ansicht an, indem Sie auf das Lupensymbol klicken.
 
 ---

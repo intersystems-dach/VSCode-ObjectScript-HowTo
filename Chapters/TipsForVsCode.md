@@ -10,15 +10,15 @@ Wenn Sie gerade erst mit Visual Studio Code beginnen, können Sie den *Editor Pl
 
 ## Command Palette
 
-Die Command Palette ist ein leistungsstarkes Tool, mit dem Sie schnell und einfach auf fast alle Funktionen oder Befehle in Visual Studio Code zugreifen können. Hier können Sie auch schnell die Tastenbelegungen nachschlagen, falls Sie eine vergessen haben. Um die Command Palette zu öffnen, drücken Sie `Ctrl Shift P` (Windows/Linux) oder `Cmd Shift P` (macOS).
+Die Command Palette ist ein leistungsstarkes Tool, mit dem Sie schnell und einfach auf fast alle Funktionen oder Befehle in Visual Studio Code zugreifen können. Hier können Sie auch schnell die Tastenbelegungen nachschlagen, falls Sie eine vergessen haben. Um die Command Palette zu öffnen, drücken Sie `Ctrl + Shift + P` (Windows/Linux) oder `Cmd + Shift + P` (macOS).
 
 ## Verwenden Sie das integrierte Terminal
 
-Visual Studio Code enthält ein integriertes Terminal, mit dem Sie Befehlszeilentools wie git und npm ausführen können. Um das Terminal zu öffnen, drücken Sie `Ctrl Shift Ö` (Windows/Linux) oder `Cmd Shift Ö` (macOS).
+Visual Studio Code enthält ein integriertes Terminal, mit dem Sie Befehlszeilentools wie git und npm ausführen können. Um das Terminal zu öffnen, drücken Sie `Ctrl + Shift + Ö` (Windows/Linux) oder `Cmd + Shift + Ö` (macOS).
 
 ## Verwenden Sie Codeschnipsel
 
-Visual Studio Code enthält eine Vielzahl integrierter Codeausschnitte, mit denen Sie beim Schreiben von Code Zeit sparen können. Sie können zum Beispiel "for" eingeben und dann `Ctrl Space` (Windows/Linux) oder `Cmd Space` (macOS) drücken, um schnell eine for-Schleife zu erstellen. Sie können auch Ihre eigenen benutzerdefinierten Codeausschnitte erstellen, indem Sie zu `File > Preferences > Configure User Snippets` gehen.
+Visual Studio Code enthält eine Vielzahl integrierter Codeausschnitte, mit denen Sie beim Schreiben von Code Zeit sparen können. Sie können zum Beispiel "for" eingeben und dann `Ctrl + Space` (Windows/Linux) oder `Cmd + Space` (macOS) drücken, um schnell eine for-Schleife zu erstellen. Sie können auch Ihre eigenen benutzerdefinierten Codeausschnitte erstellen, indem Sie zu `File > Preferences > Configure User Snippets` gehen.
 
 ## Passen Sie das Farbschema an
 
