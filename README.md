@@ -41,6 +41,10 @@ Fang **[hier](Chapters/GettingStartedWithVSCode.md)** an zu lesen.
 
 ---
 
+**[Hier](https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/german/VSCode-HowTo.pdf)** als PDF downloaden.
+
+---
+
 Siehe **[hier](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/master)** für die englische Version.
 
 ---
