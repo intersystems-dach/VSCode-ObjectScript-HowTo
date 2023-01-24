@@ -1,68 +1,68 @@
 # Die wichtigestens Visual Studio Code Extensions
 
-Visual Studio Code is a powerful text editor, but it can be even more powerful with the right extensions. Here's a list of some essential extensions that can help you boost your productivity and streamline your workflow.
+Visual Studio Code ist ein leistungsstarker Texteditor, der jedoch mit den richtigen Extensions noch leistungsfähiger werden kann. Hier ist eine Liste einiger wichtiger Extensions, die Ihnen helfen können, Ihre Produktivität zu steigern und Ihren Arbeitsablauf zu optimieren.
 
 ---
 
-* **[Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)** - Extension Packs to add close tag and rename paired tag automatically for HTML/XML.
+* **[Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)** - Extension Pakete zum automatischen Hinzufügen von Schließen-Tags und Umbenennen von gepaarten Tags für HTML/XML.
 
-* **[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)** - An extension that automatically imports missing modules as you type, saving you time and reducing the chance of errors.
+* **[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)** - Eine Extension, die fehlende Module während der Eingabe automatisch importiert, wodurch Sie Zeit sparen und die Wahrscheinlichkeit von Fehlern verringern.
 
-* **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - Improve your code commenting by annotating with alert, informational, TODOs, and more!
+* **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - Verbessern Sie Ihre Codekommentierung, indem Sie mit Warnungen, Informationen, TODOs und mehr kommentieren!
 
-* **[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)** - Mark lines and jump to them.
+* **[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)** - Linien markieren und zu ihnen springen.
 
-* **[ChatGPT: write and improve code using AI](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)** - Use ChatGPT right inside the IDE to enhance and automate your coding with AI-powered assistance (unofficial).
+* **[ChatGPT: write and improve code using AI](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)** - Verwenden Sie ChatGPT direkt in der IDE, um Ihre Codierung mit KI-gestützter Unterstützung zu verbessern und zu automatisieren (inoffiziell).
 
-* **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)** - An extension that allows you to run your code directly from VSCode, with support for multiple languages and automatic output formatting.
+* **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)** - Eine Extension, mit der Sie Ihren Code direkt aus VSCode ausführen können, mit Unterstützung für mehrere Sprachen und automatischer Ausgabeformatierung.
 
-* **[Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)** - An extension that makes it easy to pick and use colors in your code, with a color picker and palette of common colors.
+* **[Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)** - Eine Extension, die es einfach macht, Farben in Ihrem Code auszuwählen und zu verwenden, mit einer Farbauswahl und einer Palette gängiger Farben.
 
-* **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - An extension that allows you to debug your JavaScript code directly in Chrome, with full support for breakpoints, call stacks, and more.
+* **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - Eine Extension, mit der Sie Ihren JavaScript-Code direkt in Chrome debuggen können, mit vollständiger Unterstützung für Haltepunkte, Aufruflisten und mehr.
 
-* **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** - Makes it easy to create, manage, and debug containerized applications.
+* **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** - Vereinfacht das Erstellen, Verwalten und Debuggen von containerisierten Anwendungen.
 
-* **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - An extension that helps you write more consistent and error-free code by linting your code for potential issues.
+* **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - Eine Extension, die Ihnen hilft, konsistenteren und fehlerfreien Code zu schreiben, indem sie Ihren Code auf potenzielle Probleme durchsucht.
 
-* **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** - An extension that adds powerful Git functionality to VSCode, including visualizations of changes, blame annotations, and more.
+* **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** - Eine Extension, die VSCode leistungsstarke Git-Funktionen hinzufügt, einschließlich Visualisierungen von Änderungen, Schuldanmerkungen und mehr.
 
-* **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - The Visual Studio IntelliCode extension provides AI-assisted development features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
+* **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - Die Visual Studio IntelliCode-Extension bietet KI-unterstützte Entwicklungsfunktionen für Python-, TypeScript/JavaScript- und Java-Entwickler in Visual Studio Code mit Erkenntnissen, die auf dem Verständnis Ihres Codekontexts in Kombination mit maschinellem Lernen basieren.
 
-* **[IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)** - See relevant code examples from GitHub for over 100K different APIs right in your editor.
+* **[IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)** - Sehen Sie sich relevante Codebeispiele von GitHub für über 100.000 verschiedene APIs direkt in Ihrem Editor an.
 
-* **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
+* **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - Jupyter-Notebook Unterstützung, interaktives Programmieren und Computing, das Intellisense, Debugging und mehr unterstützt.
 
-* **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - An extension that allows you to run a local web server and preview your HTML, CSS, and JavaScript changes in real-time.
+* **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - Eine Extension, mit der Sie einen lokalen Webserver ausführen und eine Vorschau Ihrer HTML-, CSS- und JavaScript-Änderungen in Echtzeit anzeigen können.
 
-* **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced ported to vscode.
+* **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced portiert nach vscode.
 
-* **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** - An extension that changes the default icons in the explorer to a more modern and minimalistic design.
+* **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** - Eine Extension, die die Standardsymbole im Explorer in ein moderneres und minimalistischeres Design umwandelt.
 
-* **[Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)** - Preserves case when editing with multiple cursors.
+* **[Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)** - Behält die Groß-/Kleinschreibung bei der Bearbeitung mit mehreren Cursorn bei.
 
-* **[open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)** - This allows you to open the current file in your default browser or application.
+* **[open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)** - Dadurch können Sie die aktuelle Datei in Ihrem Standardbrowser oder Ihrer Standardanwendung öffnen.
 
-* **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - An extension that automatically formats your code to conform to a consistent style.
+* **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Eine Extension, die Ihren Code automatisch so formatiert, dass er einem einheitlichen Stil entspricht.
 
-* **[SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)** - SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.
+* **[SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)** - SonarLint ist eine IDE-Erweiterung, die Ihnen hilft, Qualitätsprobleme zu erkennen und zu beheben, während Sie Code in C, C, Java, JavaScript, PHP, Python, HTML und TypeScript schreiben.
 
-* **[SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)** - Connecting users to many of the most commonly used databases. Welcome to database management done right.
+* **[SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)** - Verbinden von Benutzern mit vielen der am häufigsten verwendeten Datenbanken. Willkommen bei der richtigen Datenbankverwaltung.
 
-* **[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)** - Lightweight Rest API Client for VS Code.
+* **[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)** - Leichtgewichtiger-Rest-API-Client für VSCode.
 
-* **[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)** - Automating the process of writing meaningful log messages.
+* **[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)** - Automatisches Schreiben aussagekräftiger Logmeldungen.
 
-* **[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)** - XML Formatting, XQuery, and XPath Tools for Visual Studio Code.
+* **[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)** - XML-Formatierung, XQuery- und XPath-Tools für Visual Studio Code.
 
-These are just a few examples of the many useful extensions available for Visual Studio Code. Experiment with different extensions to find the ones that work best for you and your workflow.
+Dies sind nur einige Beispiele für die vielen nützlichen Extensions, die für Visual Studio Code verfügbar sind. Experimentieren Sie mit verschiedenen Extensions, um diejenigen zu finden, die für Sie und Ihren Workflow am besten geeignet sind.
 
 ---
 
-Check out my Visual Studio Code Extensions:
+Schauen Sie sich auch gerne meine Visual Studio Code Extensions an:
 
-* **[OwnVscodeExtension](https://github.com/phil1436/ownvscodeextension)** - Providing tools for Visual Studio Code.
-* **[OwnGitExtension](https://github.com/phil1436/owngitextension)** - A Visual Studio Code Extension that offers tools for working with GitHub projects.
-* **[OwnObjectScriptExtension](https://github.com/phil1436/ownobjectscriptextension)** - A Visual Studio code extension that supplies tools for InterSystems ObjectScript.
+* **[OwnVscodeExtension](https://github.com/phil1436/ownvscodeextension)** - Bereitstellung von Werkzeugen für Visual Studio Code.
+* **[OwnGitExtension](https://github.com/phil1436/owngitextension)** - Eine Visual Studio Code Extension, die Werkzeuge für die Arbeit mit GitHub-Projekten bietet.
+* **[OwnObjectScriptExtension](https://github.com/phil1436/ownobjectscriptextension)** - Eine Visual Studio Code Extension, die Werkzeuge für InterSystems ObjectScript bereitstellt.
 
 ---
 

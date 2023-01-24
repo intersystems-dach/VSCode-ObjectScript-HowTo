@@ -1,157 +1,157 @@
 # Tastenkombinationen für Visual Studio Code
 
-A key to be more productive with Visual Studio Code is to use the builtin keyboard shortcuts. You can view the full list of keyboard shortcuts by going to `File > Preferences > Keyboard Shortcuts`.
+Ein Schlüssel, um mit Visual Studio Code produktiver zu sein, ist die Verwendung der integrierten Tastenkombinationen. Sie können die vollständige Liste der Tastenkombinationen sehen, indem Sie zu `File > Preferences > Keyboard Shortcuts` gehen.
 
-> Note: Some of these shortcuts may differ based on the specific operating system or keyboard layout you're using (here for german layout).
+> Hinweis: Einige dieser Tastenkombinationen können je nach verwendetem Betriebssystem oder Tastaturlayout (hier für deutsches Layout) abweichen.
 
 ---
 
 * [Keyboard reference sheet](#keyboard-reference-sheet)
 * [Command Palette](#command-palette)
-* [View](#view)
+* [Ansicht](#ansicht)
 * [Navigation](#navigation)
-* [Edit](#edit)
+* [Bearbeiten](#bearbeiten)
 
 ---
 
 ## Keyboard reference sheet
 
-Here you can view almost all keyboard shortcuts in one overview.
+Hier sehen Sie fast alle Tastenkombinationen in einer Übersicht.
 
 ![Keyboard reference sheet](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)
 
-For [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) and [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf).
+Für [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) und [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf).
 
 ---
 
 ## Command Palette
 
-Here you can search and run all Commands. You can also map a command to a Keyboard shortcut here.
+Hier können Sie alle Befehle suchen und ausführen. Sie können hier auch einen Befehl einer Tastenkombination zuordnen.
 
-* **Show Command Palette:**
-Windows/Linux: `Ctrl + Shift + P`  MacOS: `Cmd + Shift + P`
+* **Command Palette anzeigen:**
+Windows/Linux: `Strg + Shift + P`  MacOS: `Cmd + Shift + P`
 
 ---
 
-## View
+## Ansicht
 
-* **New window/instance:**
-Windows/Linux: `Ctrl + Shift + N`  MacOS: `Cmd + Shift + N`
+* **Neues Fenster/Instanz:**
+Windows/Linux: `Strg + Shift + N`  MacOS: `Cmd + Shift + N`
 
-* **Close editor:**
-Windows/Linux: `Ctrl + W`  MacOS: `Cmd + W`
+* **Editor schließen:**
+Windows/Linux: `Strg + W`  MacOS: `Cmd + W`
 
-* **Close window/instance:**
-Windows/Linux: `Ctrl + Shift + W`  MacOS: `Cmd + Shift + W`
+* **Fenster/Instanz schließen:**
+Windows/Linux: `Strg + Shift + W`  MacOS: `Cmd + Shift + W`
 
-* **Toggle Sidebar:**
-Windows/Linux: `Ctrl + B`  MacOS: `Cmd + B`
+* **Sidebar verstecken/anzeigen:**
+Windows/Linux: `Strg + B`  MacOS: `Cmd + B`
 
-* **Close all open taps:**
-Windows/Linux: `Ctrl + K + W`  MacOS: `Cmd + K + W`
+* **Alle geöffneten Tabs schließen:**
+Windows/Linux: `Strg + K + W`  MacOS: `Cmd + K + W`
 
-* **Fold {}:**
-Windows/Linux: `Ctrl + Shift + ß`  MacOS: `Cmd + Shift + ß`
+* **Falten {}:**
+Windows/Linux: `Strg + Shift + ß`  MacOS: `Cmd + Shift + ß`
 
-* **Unfold {}:**
-Windows/Linux: `Ctrl + Shift + ´`  MacOS: `Cmd + Shift + ´`
+* **Entfalten {}:**
+Windows/Linux: `Strg + Shift + ´`  MacOS: `Cmd + Shift + ´`
 
-* **Split editor view:**
-Windows/Linux: `Ctrl + ^`  MacOS: `Cmd + ^`
+* **Geteilte Editoransicht:**
+Windows/Linux: `Strg + ^`  MacOS: `Cmd + ^`
 
 * **Zen Mode:**
-Windows/Linux: `Ctrl + K + Z`  MacOS: `Cmd + K + Z`
+Windows/Linux: `Strg + K + Z`  MacOS: `Cmd + K + Z`
 
-* **MarkDown Preview**:
-Windows/Linux: `Ctrl + K + V`  MacOS: `Cmd + K + V`
+* **MarkDown Vorschau**:
+Windows/Linux: `Strg + K + V`  MacOS: `Cmd + K + V`
 
 ---
 
 ## Navigation
 
-* **Quick Open file from Workspace:**
-Windows/Linux: `Ctrl + P`  MacOS: `Cmd + P`
+* **Schnell eine Datei zum Workspace öffnen:**
+Windows/Linux: `Strg + P`  MacOS: `Cmd + P`
 
-* **Next editor:**
-Windows/Linux: `Ctrl + Tab`  MacOS: `Cmd + Tab`
+* **Nächster Editor:**
+Windows/Linux: `Strg + Tab`  MacOS: `Cmd + Tab`
 
-* **Previous editor:**
-Windows/Linux: `Ctrl + Shift + Tab`  MacOS: `Cmd + Shift + Tab`
+* **Vorheriger Editor:**
+Windows/Linux: `Strg + Shift + Tab`  MacOS: `Cmd + Shift + Tab`
 
-* **Go back:**
-Windows/Linux: `Alt + Left Arrow` MacOS: `Ctrl + Cmd + Left Arrow`
+* **Geh zurück:**
+Windows/Linux: `Alt + Linke Pfeiltaste` MacOS: `Strg + Cmd + Linke Pfeiltaste`
 
-* **Go forward:**
-Windows/Linux: `Alt + Right Arrow` MacOS: `Ctrl + Cmd + Right Arrow`
+* **Vorwärts gehen:**
+Windows/Linux: `Alt + Rechte Pfeiltaste` MacOS: `Strg + Cmd + Rechte Pfeiltaste`
 
-* **Global Find:**
-Windows/Linux: `Ctrl + Shift + F`  MacOS: `Cmd + Shift + F`
+* **Globale Suche:**
+Windows/Linux: `Strg + Shift + F`  MacOS: `Cmd + Shift + F`
 
-* **Show outline of file:**
-Windows/Linux: `Ctrl + Shift + .`  MacOS: `Cmd + Shift + .`
+* **Struktur der Datei anzeigen:**
+Windows/Linux: `Strg + Shift + .`  MacOS: `Cmd + Shift + .`
 
-* **Go to specific Line:**
-Windows/Linux: `Ctrl + G`  MacOS: `Cmd + G`
+* **Gehe zu einer bestimmten Zeile:**
+Windows/Linux: `Strg + G`  MacOS: `Cmd + G`
 
 ---
 
-## Edit
+## Bearbeiten
 
-* **Cut Line:**
-Windows/Linux: `Ctrl + X`  MacOS: `Cmd + X`
+* **Zeile entfernen und kopieren:**
+Windows/Linux: `Strg + X`  MacOS: `Cmd + X`
 
-* **Copy Line:**
-Windows/Linux: `Ctrl + C`  MacOS: `Cmd + C`
+* **Zeile kopieren:**
+Windows/Linux: `Strg + C`  MacOS: `Cmd + C`
 
-* **Highlight:**
-Windows/Linux: `Shift + Left/Right Arrow`  MacOS: `Shift + Left/Right Arrow`
+* **Hervorheben:**
+Windows/Linux: `Shift + Linke/Rechte Pfeiltaste`  MacOS: `Shift + Linke/Rechte Pfeiltaste`
 
-* **Highlight word:**
-Windows/Linux: `Ctrl + Shift + Left/Right Arrow`  MacOS: `Cmd + Shift + Left/Right Arrow`
+* **Wort hervorheben:**
+Windows/Linux: `Strg + Shift + Linke/Rechte Pfeiltaste`  MacOS: `Cmd + Shift + Linke/Rechte Pfeiltaste`
 
-* **Highlight word and put multiple cursor to next same words:**
-Windows/Linux: `Ctrl + D`  MacOS: `Cmd + D`
+* **Wort hervorheben und mehrere Cursor auf die nächsten gleichen Wörter setzen:**
+Windows/Linux: `Strg + D`  MacOS: `Cmd + D`
 
-* **Select all occurrences of current selection:**
-Windows/Linux: `Ctrl + Shift + L`  MacOS: `Cmd + Shift + L`
+* **Alle Vorkommen der aktuellen Auswahl auswählen:**
+Windows/Linux: `Strg + Shift + L`  MacOS: `Cmd + Shift + L`
 
-* **Insert Snippet:**
+* **Ausschnitt einfügen:**
 Windows/Linux: `Shift + Alt + J`  MacOS: `Shift + Option + J`
 
-* **Copy Line:**
-Windows/Linux: `Shift + Alt + Up/Down Arrow`  MacOS: `Shift + Option + Up/Down Arrow`
+* **Zeile kopieren:**
+Windows/Linux: `Shift + Alt + Hoch/Runter Pfeiltaste`  MacOS: `Shift + Option + Hoch/Runter Pfeiltaste`
 
-* **Add cursor above/below:**
-Windows/Linux: `Ctrl + Alt + Up/Down`  MacOS: `Ctrl + Option + Up/Down`
+* **Cursor oben/unten hinzufügen:**
+Windows/Linux: `Strg + Alt + Hoch/Runter Pfeiltaste`  MacOS: `Strg + Option + Hoch/Runter Pfeiltaste`
 
-* **Undo last cursor operation:**
-Windows/Linux: `Ctrl + U`  MacOS: `Cmd + U`
+* **Letzten Cursorvorgang rückgängig machen:**
+Windows/Linux: `Strg + U`  MacOS: `Cmd + U`
 
-* **Comment line:**
-Windows/Linux: `Ctrl + #`  MacOS: `Cmd + #`
+* **Zeile auskommentieren:**
+Windows/Linux: `Strg + #`  MacOS: `Cmd + #`
 
-* **Comment highlighted array out:**
+* **Hervorgehobenen Bereich auskommentieren:**
 Windows/Linux: `Shift + Alt + A`  MacOS: `Shift + Option + A`
 
-* **Multiple Line cursor:**
-Windows/Linux: `Ctrl + Alt + Up/Down Arrow` or hold Alt and CLICK MacOS: `Cmd + Option + Up/Down Arrow` or hold Option and CLICK
+* **Mehrzeiliger Cursor:**
+Windows/Linux: `Strg + Alt + Hoch/Runter Pfeiltaste` oder Alt gedrückt halten und KLICKEN MacOS: `Cmd + Option + Hoch/Runter Pfeiltaste` oder Option gedrückt halten und KLICKEN
 
-* **Select current Line:**
-Windows/Linux: `Ctrl + L`  MacOS: `Cmd + L`
+* **Aktuelle Zeile auswählen:**
+Windows/Linux: `Strg + L`  MacOS: `Cmd + L`
 
-* **Move line up/down:**
-Windows/Linux: `Alt + Up/Down Arrow`  MacOS: `Option + Up/Down Arrow`
+* **Zeile nach oben/unten verschieben:**
+Windows/Linux: `Alt + Hoch/Runter Pfeiltaste`  MacOS: `Option + Hoch/Runter Pfeiltaste`
 
-* **Delete line:**
-Windows/Linux: `Ctrl + Shift + K`  MacOS: `Cmd + Shift + K`
+* **Zeile löschen:**
+Windows/Linux: `Strg + Shift + K`  MacOS: `Cmd + Shift + K`
 
-* **Insert line below:**
-Windows/Linux: `Ctrl + Enter`  MacOS: `Cmd + Enter`
+* **Zeile unten einfügen:**
+Windows/Linux: `Strg + Enter`  MacOS: `Cmd + Enter`
 
-* **Insert line above:**
-Windows/Linux: `Ctrl + Shift + Enter`  MacOS: `Cmd + Shift + Enter`
+* **Zeile oben einfügen:**
+Windows/Linux: `Strg + Shift + Enter`  MacOS: `Cmd + Shift + Enter`
 
-* **Format Text:**
+* **Text formatieren:**
 Windows/Linux: `Shift + Alt + F`  MacOS: `Shift + Option + F`
 
 ---
