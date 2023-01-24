@@ -34,14 +34,14 @@ Fang **[hier](Chapters/GettingStartedWithVSCode.md)** an zu lesen.
 * [Tastenkombinationen für Visual Studio Code](Chapters/KeyboardShortcuts.md)
   * [Keyboard reference sheet](Chapters/KeyboardShortcuts.md#keyboard-reference-sheet)
   * [Command Palette](Chapters/KeyboardShortcuts.md#command-palette)
-  * [View](Chapters/KeyboardShortcuts.md#view)
+  * [Ansicht](Chapters/KeyboardShortcuts.md#ansicht)
   * [Navigation](Chapters/KeyboardShortcuts.md#navigation)
-  * [Edit](Chapters/KeyboardShortcuts.md#edit)
+  * [Bearbeiten](Chapters/KeyboardShortcuts.md#bearbeiten)
 * [Die wichtigestens Visual Studio Code Extensions](Chapters/EssentialExtensions.md)
 
 ---
 
-Siehe [hier](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/master) für die englische Version.
+Siehe **[hier](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/master)** für die englische Version.
 
 ---
 
