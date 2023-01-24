@@ -41,7 +41,11 @@ Start reading **[here](Chapters/GettingStartedWithVSCode.md)**.
 
 ---
 
-View the german version [here](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/german).
+Download as pdf **[here](https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/VSCode-HowTo.pdf)**.
+
+---
+
+View the german version **[here](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/german)**.
 
 ---
 
