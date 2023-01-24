@@ -1,4 +1,4 @@
-# Die wichtigestens Visual Studio Code Extensions
+# Die wichtigsten Visual Studio Code Extensions
 
 Visual Studio Code ist ein leistungsstarker Texteditor, der jedoch mit den richtigen Extensions noch leistungsfähiger werden kann. Hier ist eine Liste einiger wichtiger Extensions, die Ihnen helfen können, Ihre Produktivität zu steigern und Ihren Arbeitsablauf zu optimieren.
 
