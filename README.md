@@ -45,14 +45,6 @@ Siehe **[hier](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/master
 
 ---
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
 von [Philipp B.](https://github.com/phil1436)
 
 powered by [InterSystems](https://www.intersystems.com/).
