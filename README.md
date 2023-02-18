@@ -1,4 +1,4 @@
-<img src = "/imgs/IrisXVscode.png" tile = "IRIS X VSCode" width = "30%"/>
+<img src = "https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" tile = "IRIS X VSCode" width = "30%"/>
 
 # VSCode-ObjectScript-HowTo
 
