@@ -4,15 +4,15 @@ Visual Studio Code (VSCode) ist ein leichtgewichtiger und dennoch leistungsstark
 
 ---
 
-* [Installiere Visual Studio Code](#installiere-visual-studio-code)
-* [Ein Projekt öffnen](#ein-projekt-öffnen)
-* [Die Visual Studio Code Oberfläche](#die-visual-studio-code-oberfläche)
-* [Code schreiben und editieren](#code-schreiben-und-editieren)
-* [Workspaces](#workspaces)
-* [Einstellungen](#einstellungen)
-* [Farbschema](#farbschema)
-* [Debuggen und Testen](#debuggen-und-testen)
-* [Quellcodekontrolle](#quellcodekontrolle)
+-   [Installiere Visual Studio Code](#installiere-visual-studio-code)
+-   [Ein Projekt öffnen](#ein-projekt-öffnen)
+-   [Die Visual Studio Code Oberfläche](#die-visual-studio-code-oberfläche)
+-   [Code schreiben und editieren](#code-schreiben-und-editieren)
+-   [Workspaces](#workspaces)
+-   [Einstellungen](#einstellungen)
+-   [Farbschema](#farbschema)
+-   [Debuggen und Testen](#debuggen-und-testen)
+-   [Quellcodekontrolle](#quellcodekontrolle)
 
 ---
 
@@ -24,7 +24,7 @@ Bevor du anfangen kannst Visual Studio Code zu benutzen, musst du die passende V
 
 ## Ein Projekt öffnen
 
-Wenn du Visual Studio Code das erste mal startest, wird dir ein Fenster mit *Open Folder* angezeigt. Hiermit kannst du ein bereits exestierendes Projekt öffnen oder ein neues Projekt erstellen, indem du nach `File > New Folder` navigierst und dann den neuen Ordner auswählst. Wenn du einen Ordner geöffnet hast, kannst du anfangen Datein zu deinem Projekt hinzuzufügen und bearbeiten.
+Wenn du Visual Studio Code das erste mal startest, wird dir ein Fenster mit _Open Folder_ angezeigt. Hiermit kannst du ein bereits exestierendes Projekt öffnen oder ein neues Projekt erstellen, indem du nach `File > New Folder` navigierst und dann den neuen Ordner auswählst. Wenn du einen Ordner geöffnet hast, kannst du anfangen Datein zu deinem Projekt hinzuzufügen und bearbeiten.
 
 ---
 
@@ -64,9 +64,9 @@ Am unteren Rand des Fensters finden Sie Informationen und Kurzzugriffe für gän
 
 Visual Studio Code verfügt über viele leistungsstarke Funktionen zum Schreiben und Bearbeiten von Code, darunter:
 
-* **Syntax highlighting**: Visual Studio Code erkennt automatisch die Art des Codes, mit dem Sie arbeiten, und wendet eine Farbcodierung an, um das Lesen und Schreiben zu erleichtern.
-* **IntelliSense**: Visual Studio Code bietet intelligente Code-Vervollständigung und Vorschläge für viele Sprachen, die das schnelle und korrekte Schreiben von Code erleichtern.
-* **Code snippets**: Visual Studio Code enthält eine große Sammlung von Codeschnipseln, die mit wenigen Tastendrücken in Ihren Code eingefügt werden können, wodurch Sie Zeit und Mühe sparen.
+-   **Syntax highlighting**: Visual Studio Code erkennt automatisch die Art des Codes, mit dem Sie arbeiten, und wendet eine Farbcodierung an, um das Lesen und Schreiben zu erleichtern.
+-   **IntelliSense**: Visual Studio Code bietet intelligente Code-Vervollständigung und Vorschläge für viele Sprachen, die das schnelle und korrekte Schreiben von Code erleichtern.
+-   **Code snippets**: Visual Studio Code enthält eine große Sammlung von Codeschnipseln, die mit wenigen Tastendrücken in Ihren Code eingefügt werden können, wodurch Sie Zeit und Mühe sparen.
 
 ---
 
@@ -80,7 +80,7 @@ Wählen Sie `File > Add Folder to Workspace...` und wählen Sie dann einen Ordne
 
 ### Workspace speichern
 
-Damit Sie nicht jedes Mal alle Ordner in Ihrem Workspace öffnen müssen, wenn Sie Visual Studio Code öffnen, können Sie Ihren Arbeitsbereich als Datei speichern. Wählen Sie `File > Save Workspace As...` und wählen Sie ein Ziel und einen Namen für Ihre Workspacedatei. Anschließend wird eine *.code-workspace* Datei erstellt. Sie können den Workspace dann öffnen, indem Sie einfach die Datei öffnen oder über `File > Open Workspace from File...` die Datei auswählen.
+Damit Sie nicht jedes Mal alle Ordner in Ihrem Workspace öffnen müssen, wenn Sie Visual Studio Code öffnen, können Sie Ihren Arbeitsbereich als Datei speichern. Wählen Sie `File > Save Workspace As...` und wählen Sie ein Ziel und einen Namen für Ihre Workspacedatei. Anschließend wird eine _.code-workspace_ Datei erstellt. Sie können den Workspace dann öffnen, indem Sie einfach die Datei öffnen oder über `File > Open Workspace from File...` die Datei auswählen.
 
 ---
 
@@ -90,17 +90,17 @@ Damit Sie nicht jedes Mal alle Ordner in Ihrem Workspace öffnen müssen, wenn S
 
 ### User Einstellungen
 
-Beim Bearbeiten von Einstellungen im *User* Tap gelten alle Einstellungen global für alle Visual Studio Code Workspaces.
+Beim Bearbeiten von Einstellungen im _User_ Tap gelten alle Einstellungen global für alle Visual Studio Code Workspaces.
 
 ### Workspace Einstellungen
 
-Beim Bearbeiten von Einstellungen im *Workspace* Tap werden alle Einstellungen nur auf den aktuell geöffneten Workspace angewendet werden.
+Beim Bearbeiten von Einstellungen im _Workspace_ Tap werden alle Einstellungen nur auf den aktuell geöffneten Workspace angewendet werden.
 
 ---
 
 ## Farbschema
 
-Sie können das Aussehen der Visual Studio Code-Oberfläche an Ihre Bedürfnisse anpassen. Navigieren Sie zu `File > Preferences > Color Theme`, dort können Sie aus einem vorinstallierten Farbschema wählen oder mit `+ Browse Additional Color Themes...` ein neues Farbschema installieren.
+Sie können das Aussehen der Visual Studio Code-Oberfläche an Ihre Bedürfnisse anpassen. Navigieren Sie zu `File > Preferences > Theme > Color Theme`, dort können Sie aus einem vorinstallierten Farbschema wählen oder mit `+ Browse Additional Color Themes...` ein neues Farbschema installieren.
 
 ---
 
