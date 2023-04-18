@@ -4,15 +4,15 @@ Visual Studio Code (VSCode) is a lightweight yet powerful source code editor dev
 
 ---
 
-* [Install Visual Studio Code](#install-visual-studio-code)
-* [Opening a project](#opening-a-project)
-* [The Visual Studio Code interface](#the-visual-studio-code-interface)
-* [Writing and editing code](#writing-and-editing-code)
-* [Workspaces](#workspaces)
-* [Settings](#settings)
-* [Color Theme](#color-theme)
-* [Debugging and testing](#debugging-and-testing)
-* [Source Control](#source-control)
+-   [Install Visual Studio Code](#install-visual-studio-code)
+-   [Opening a project](#opening-a-project)
+-   [The Visual Studio Code interface](#the-visual-studio-code-interface)
+-   [Writing and editing code](#writing-and-editing-code)
+-   [Workspaces](#workspaces)
+-   [Settings](#settings)
+-   [Color Theme](#color-theme)
+-   [Debugging and testing](#debugging-and-testing)
+-   [Source Control](#source-control)
 
 ---
 
@@ -24,7 +24,7 @@ Before you can start using Visual Studio Code, you need to [download and install
 
 ## Opening a project
 
-When you first launch Visual Studio Code, you will be presented with an *Open Folder* dialog. You can use this to open an existing project, or you can create a new one by clicking `File > New Folder` and then selecting the new folder. Once you have a folder open, you can start adding and editing files within that folder.
+When you first launch Visual Studio Code, you will be presented with an _Open Folder_ dialog. You can use this to open an existing project, or you can create a new one by clicking `File > New Folder` and then selecting the new folder. Once you have a folder open, you can start adding and editing files within that folder.
 
 ---
 
@@ -64,9 +64,9 @@ Located at the bottom of the window, provides information and shortcuts for comm
 
 Visual Studio Code has many powerful features for writing and editing code, including:
 
-* **Syntax highlighting**: Visual Studio Code automatically recognizes the type of code you're working with and applies color coding to make it easier to read and write.
-* **IntelliSense**: Visual Studio Code provides intelligent code completion and suggestions for many languages, making it easier to write code quickly and correctly.
-* **Code snippets**: Visual Studio Code includes a large collection of code snippets that can be inserted into your code with a few keystrokes, saving you time and effort.
+-   **Syntax highlighting**: Visual Studio Code automatically recognizes the type of code you're working with and applies color coding to make it easier to read and write.
+-   **IntelliSense**: Visual Studio Code provides intelligent code completion and suggestions for many languages, making it easier to write code quickly and correctly.
+-   **Code snippets**: Visual Studio Code includes a large collection of code snippets that can be inserted into your code with a few keystrokes, saving you time and effort.
 
 ---
 
@@ -80,7 +80,7 @@ Select `File > Add Folder to Workspace...` then select a folder to add to your c
 
 ### Save Workspace
 
-So you dont have to open all your folders in your workspace everytime you open Visual Studio Code, you can save your Workspace as a file. Select `File > Save Workspace As...` and choose a destination and name for your workspace file. Afterwards a *.code-workspace* file was created. You can then open the workspace by just open the file or via `File > Open Workspace from File...`
+So you dont have to open all your folders in your workspace everytime you open Visual Studio Code, you can save your Workspace as a file. Select `File > Save Workspace As...` and choose a destination and name for your workspace file. Afterwards a _.code-workspace_ file was created. You can then open the workspace by just open the file or via `File > Open Workspace from File...`
 
 ---
 
@@ -90,17 +90,17 @@ Open Settings via `File > Preferences > Settings`.
 
 ### User Settings
 
-When editing settings in the *User* tap all settings apply globally across all Visual Studio Code Workspaces.
+When editing settings in the _User_ tap all settings apply globally across all Visual Studio Code Workspaces.
 
 ### Workspace Settings
 
-When editing settings in the *Workspace* tap all settings applied only effects the current opened workspace.
+When editing settings in the _Workspace_ tap all settings applied only effects the current opened workspace.
 
 ---
 
 ## Color Theme
 
-You can customize the appearance of the Visual Studio Code interface to your needs. Navigate to `File > Preferences > Color Theme` there you can choose from a preinstalled Color Theme or install a new Color Theme with `+ Browse Additional Color Themes...`
+You can customize the appearance of the Visual Studio Code interface to your needs. Navigate to `File > Preferences > Theme > Color Theme` there you can choose from a preinstalled Color Theme or install a new Color Theme with `+ Browse Additional Color Themes...`
 
 ---
 
