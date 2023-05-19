@@ -4,6 +4,7 @@ Visual Studio Code (VSCode) is a lightweight yet powerful source code editor dev
 
 ---
 
+-   [VSCodium](#vscodium)
 -   [Install Visual Studio Code](#install-visual-studio-code)
 -   [Opening a project](#opening-a-project)
 -   [The Visual Studio Code interface](#the-visual-studio-code-interface)
@@ -13,6 +14,28 @@ Visual Studio Code (VSCode) is a lightweight yet powerful source code editor dev
 -   [Color Theme](#color-theme)
 -   [Debugging and testing](#debugging-and-testing)
 -   [Source Control](#source-control)
+
+---
+
+## VSCodium
+
+When considering which code editor to use, [VSCodium](https://vscodium.com/) emerges as a compelling alternative to Visual Studio Code. Here are a few reasons why you should consider using VSCodium:
+
+1. **Open Source and Transparency**: VSCodium is a community-driven, open-source project that offers a fully-featured code editor without any telemetry or tracking. Unlike VS Code, which is built on Microsoft's open-source platform but includes telemetry and branding, VSCodium respects your privacy and promotes transparency.
+
+2. **Freedom from Vendor Lock-in**: With VSCodium, you have complete control over your code editor. There are no proprietary build systems or extensions that bind you to a specific ecosystem. You can customize and modify VSCodium according to your needs, allowing you the freedom to tailor it to your workflow.
+
+3. **Enhanced Privacy and Security**: VSCodium eliminates any concerns related to data collection and usage. By removing telemetry, crash reporting, and data sharing functionalities, VSCodium ensures your development environment remains private and secure. This is particularly advantageous for individuals or organizations that prioritize data privacy.
+
+4. **Extensive Plugin Ecosystem**: VSCodium is fully compatible with the vast plugin ecosystem of VS Code. It supports the same wide range of extensions and themes, enabling you to leverage the extensive functionality provided by the VS Code community. You can benefit from the rich library of extensions to enhance your coding experience without compromising on privacy.
+
+5. **Regular Updates and Maintenance**: VSCodium keeps pace with the latest updates from the VS Code project. As a result, you can enjoy the latest features, bug fixes, and performance enhancements in a privacy-focused environment. The active community behind VSCodium ensures ongoing maintenance, making it a reliable and up-to-date choice for developers.
+
+Ultimately, the decision between VSCodium and Visual Studio Code depends on your priorities. If privacy, transparency, and customization are important to you, VSCodium offers a compelling alternative to VS Code. By embracing the open-source philosophy and focusing on user control, VSCodium provides a trustworthy code editor while still leveraging the extensive plugin ecosystem of its parent project.
+
+However, if you decide to use VSCodium, you can still follow this guide. The two editors are nearly identical, and the instructions provided here will work for both.
+
+Download VSCodium [here](https://vscodium.com/#install).
 
 ---
 
