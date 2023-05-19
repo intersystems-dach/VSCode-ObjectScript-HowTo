@@ -1,8 +1,9 @@
-<img src = "/imgs/IrisXVscode.png" tile = "IRIS X VSCode" width = "30%"/>
-
-# VSCode-ObjectScript-HowTo _german_
-
-Eine Einführung in [Microsoft's Visual Studio Code](https://code.visualstudio.com/) und wie man Visual Studio Code mit [InterSystems ObjectScript](https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO) nutzt.
+<div align="center">
+    <br />
+    <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="IRIS X VSCode" width="30%"/>
+    <h1>VSCode-ObjectScript-HowTo <i>german</i></h1>
+    <p>Eine Einführung in <a href = "https://code.visualstudio.com/">Microsoft's Visual Studio Code</a> und wie man Visual Studio Code mit <a href = "https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO">InterSystems ObjectScript</a> nutzt.</p>
+</div>
 
 ---
 
@@ -52,4 +53,4 @@ Siehe **[hier](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/master
 
 von [Philipp B.](https://github.com/phil1436)
 
-powered by [InterSystems](https://www.intersystems.com/).
+_powered by [InterSystems](https://www.intersystems.com/)._
