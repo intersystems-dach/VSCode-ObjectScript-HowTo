@@ -6,7 +6,7 @@ Hier sind ein paar Tipps, die Ihnen dabei helfen sollen, Visual Studio Code opti
 
 ## Editor Playground
 
-Wenn Sie gerade erst mit Visual Studio Code beginnen, können Sie den *Editor Playground* unter `Help > Editor Playground` ausprobieren. Hier erfahren Sie, wie Sie einige der leistungsstarken [Codebearbeitungsfunktionen](https://code.visualstudio.com/docs/editor/codebasics) verwenden.
+Wenn Sie gerade erst mit Visual Studio Code beginnen, können Sie den _Editor Playground_ unter `Help > Editor Playground` ausprobieren. Hier erfahren Sie, wie Sie einige der leistungsstarken [Codebearbeitungsfunktionen](https://code.visualstudio.com/docs/editor/codebasics) verwenden.
 
 ## Command Palette
 
@@ -36,17 +36,17 @@ Visual Studio Code verfügt über eine große Anzahl von Tastenkombinationen, mi
 
 Es ist nicht immer einfach, Ihren Code manuell in einem gut lesbaren Zustand zu halten. Glücklicherweise bietet Visual Studio Code einen Formatierer für fast jede Sprache. Um Ihren Code gleichzeitig mit dem Speichern zu formatieren, können Sie die Funktion `Format On Save` aktivieren:
 
-* Öffnen Sie die Einstellungen unter `File > Preferences > Settings` oder über `Strg + ,`
-* Tippen Sie *Format On Save*
-* Aktivieren Sie das Kästchen für `Editor: Format On Save`
+-   Öffnen Sie die Einstellungen unter `File > Preferences > Settings` oder über `Strg + ,`
+-   Tippen Sie _Format On Save_
+-   Aktivieren Sie das Kästchen für `Editor: Format On Save`
 
 ## Sticky Scroll
 
 Wenn Sie Code mit langen Klassen und Methoden arbeiten, die über die vertikale Größe Ihres Bildschirms hinausgehen, kann es schwierig sein, den Überblick zu behalten, in welchem ​​Bereich Sie arbeiten. Visual Studio Code bietet jetzt eine Funktion, um einen besseren Überblick über Ihren Code zu haben: **Sticky Scroll**
 
-* Öffnen Sie die Einstellungen unter `File > Preferences > Settings` oder über `Strg + ,`
-* Tippen Sie *Sticky Scroll*
-* Aktivieren Sie das Kästchen für `Editor › Sticky Scroll: Enabled`
+-   Öffnen Sie die Einstellungen unter `File > Preferences > Settings` oder über `Strg + ,`
+-   Tippen Sie _Sticky Scroll_
+-   Aktivieren Sie das Kästchen für `Editor › Sticky Scroll: Enabled`
 
 ## Passen Sie die Einstellungen an
 
@@ -54,13 +54,13 @@ Mit Visual Studio Code können Sie verschiedene Einstellungen anpassen, z. B. di
 
 Hier finden Sie nützliche Einstellungen sowie
 
-* `editor.renderWhitespace`: Rendern Sie Leerzeichen in Ihrem Code für eine bessere Sichtbarkeit.
-* `editor.tabSize`: Passen Sie die Größe des Tabs an
-* `editor.fontSize` : Passen Sie die Größe der Schriftart an
+-   `editor.renderWhitespace`: Rendern Sie Leerzeichen in Ihrem Code für eine bessere Sichtbarkeit.
+-   `editor.tabSize`: Passen Sie die Größe des Tabs an
+-   `editor.fontSize` : Passen Sie die Größe der Schriftart an
 
 ## Settings Sync
 
-Sie können Ihre Einstellungen, Tastenkombinationen und Extensions auf allen Geräten synchronisieren mit *[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)*. Melden Sie sich einfach mit Ihrem GitHub- oder Microsoft-Benutzer an.
+Sie können Ihre Einstellungen, Tastenkombinationen und Extensions auf allen Geräten synchronisieren mit _[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)_. Melden Sie sich einfach mit Ihrem GitHub- oder Microsoft-Benutzer an.
 
 ## Verwenden Sie Code-Navigationsfunktionen
 

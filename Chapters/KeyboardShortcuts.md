@@ -6,11 +6,11 @@ Ein Schlüssel, um mit Visual Studio Code produktiver zu sein, ist die Verwendun
 
 ---
 
-* [Keyboard reference sheet](#keyboard-reference-sheet)
-* [Command Palette](#command-palette)
-* [Ansicht](#ansicht)
-* [Navigation](#navigation)
-* [Bearbeiten](#bearbeiten)
+-   [Keyboard reference sheet](#keyboard-reference-sheet)
+-   [Command Palette](#command-palette)
+-   [Ansicht](#ansicht)
+-   [Navigation](#navigation)
+-   [Bearbeiten](#bearbeiten)
 
 ---
 
@@ -28,131 +28,131 @@ Für [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pd
 
 Hier können Sie alle Befehle suchen und ausführen. Sie können hier auch einen Befehl einer Tastenkombination zuordnen.
 
-* **Command Palette anzeigen:**
-Windows/Linux: `Strg + Shift + P`  MacOS: `Cmd + Shift + P`
+-   **Command Palette anzeigen:**
+    Windows/Linux: `Strg + Shift + P` MacOS: `Cmd + Shift + P`
 
 ---
 
 ## Ansicht
 
-* **Neues Fenster/Instanz:**
-Windows/Linux: `Strg + Shift + N`  MacOS: `Cmd + Shift + N`
+-   **Neues Fenster/Instanz:**
+    Windows/Linux: `Strg + Shift + N` MacOS: `Cmd + Shift + N`
 
-* **Editor schließen:**
-Windows/Linux: `Strg + W`  MacOS: `Cmd + W`
+-   **Editor schließen:**
+    Windows/Linux: `Strg + W` MacOS: `Cmd + W`
 
-* **Fenster/Instanz schließen:**
-Windows/Linux: `Strg + Shift + W`  MacOS: `Cmd + Shift + W`
+-   **Fenster/Instanz schließen:**
+    Windows/Linux: `Strg + Shift + W` MacOS: `Cmd + Shift + W`
 
-* **Sidebar verstecken/anzeigen:**
-Windows/Linux: `Strg + B`  MacOS: `Cmd + B`
+-   **Sidebar verstecken/anzeigen:**
+    Windows/Linux: `Strg + B` MacOS: `Cmd + B`
 
-* **Alle geöffneten Tabs schließen:**
-Windows/Linux: `Strg + K + W`  MacOS: `Cmd + K + W`
+-   **Alle geöffneten Tabs schließen:**
+    Windows/Linux: `Strg + K + W` MacOS: `Cmd + K + W`
 
-* **Falten {}:**
-Windows/Linux: `Strg + Shift + ß`  MacOS: `Cmd + Shift + ß`
+-   **Falten {}:**
+    Windows/Linux: `Strg + Shift + ß` MacOS: `Cmd + Shift + ß`
 
-* **Entfalten {}:**
-Windows/Linux: `Strg + Shift + ´`  MacOS: `Cmd + Shift + ´`
+-   **Entfalten {}:**
+    Windows/Linux: `Strg + Shift + ´` MacOS: `Cmd + Shift + ´`
 
-* **Geteilte Editoransicht:**
-Windows/Linux: `Strg + ^`  MacOS: `Cmd + ^`
+-   **Geteilte Editoransicht:**
+    Windows/Linux: `Strg + ^` MacOS: `Cmd + ^`
 
-* **Zen Mode:**
-Windows/Linux: `Strg + K + Z`  MacOS: `Cmd + K + Z`
+-   **Zen Mode:**
+    Windows/Linux: `Strg + K + Z` MacOS: `Cmd + K + Z`
 
-* **MarkDown Vorschau**:
-Windows/Linux: `Strg + K + V`  MacOS: `Cmd + K + V`
+-   **MarkDown Vorschau**:
+    Windows/Linux: `Strg + K + V` MacOS: `Cmd + K + V`
 
 ---
 
 ## Navigation
 
-* **Schnell eine Datei zum Workspace öffnen:**
-Windows/Linux: `Strg + P`  MacOS: `Cmd + P`
+-   **Schnell eine Datei zum Workspace öffnen:**
+    Windows/Linux: `Strg + P` MacOS: `Cmd + P`
 
-* **Nächster Editor:**
-Windows/Linux: `Strg + Tab`  MacOS: `Cmd + Tab`
+-   **Nächster Editor:**
+    Windows/Linux: `Strg + Tab` MacOS: `Cmd + Tab`
 
-* **Vorheriger Editor:**
-Windows/Linux: `Strg + Shift + Tab`  MacOS: `Cmd + Shift + Tab`
+-   **Vorheriger Editor:**
+    Windows/Linux: `Strg + Shift + Tab` MacOS: `Cmd + Shift + Tab`
 
-* **Geh zurück:**
-Windows/Linux: `Alt + Linke Pfeiltaste` MacOS: `Strg + Cmd + Linke Pfeiltaste`
+-   **Geh zurück:**
+    Windows/Linux: `Alt + Linke Pfeiltaste` MacOS: `Strg + Cmd + Linke Pfeiltaste`
 
-* **Vorwärts gehen:**
-Windows/Linux: `Alt + Rechte Pfeiltaste` MacOS: `Strg + Cmd + Rechte Pfeiltaste`
+-   **Vorwärts gehen:**
+    Windows/Linux: `Alt + Rechte Pfeiltaste` MacOS: `Strg + Cmd + Rechte Pfeiltaste`
 
-* **Globale Suche:**
-Windows/Linux: `Strg + Shift + F`  MacOS: `Cmd + Shift + F`
+-   **Globale Suche:**
+    Windows/Linux: `Strg + Shift + F` MacOS: `Cmd + Shift + F`
 
-* **Struktur der Datei anzeigen:**
-Windows/Linux: `Strg + Shift + .`  MacOS: `Cmd + Shift + .`
+-   **Struktur der Datei anzeigen:**
+    Windows/Linux: `Strg + Shift + .` MacOS: `Cmd + Shift + .`
 
-* **Gehe zu einer bestimmten Zeile:**
-Windows/Linux: `Strg + G`  MacOS: `Cmd + G`
+-   **Gehe zu einer bestimmten Zeile:**
+    Windows/Linux: `Strg + G` MacOS: `Cmd + G`
 
 ---
 
 ## Bearbeiten
 
-* **Zeile entfernen und kopieren:**
-Windows/Linux: `Strg + X`  MacOS: `Cmd + X`
+-   **Zeile entfernen und kopieren:**
+    Windows/Linux: `Strg + X` MacOS: `Cmd + X`
 
-* **Zeile kopieren:**
-Windows/Linux: `Strg + C`  MacOS: `Cmd + C`
+-   **Zeile kopieren:**
+    Windows/Linux: `Strg + C` MacOS: `Cmd + C`
 
-* **Hervorheben:**
-Windows/Linux: `Shift + Linke/Rechte Pfeiltaste`  MacOS: `Shift + Linke/Rechte Pfeiltaste`
+-   **Hervorheben:**
+    Windows/Linux: `Shift + Linke/Rechte Pfeiltaste` MacOS: `Shift + Linke/Rechte Pfeiltaste`
 
-* **Wort hervorheben:**
-Windows/Linux: `Strg + Shift + Linke/Rechte Pfeiltaste`  MacOS: `Cmd + Shift + Linke/Rechte Pfeiltaste`
+-   **Wort hervorheben:**
+    Windows/Linux: `Strg + Shift + Linke/Rechte Pfeiltaste` MacOS: `Cmd + Shift + Linke/Rechte Pfeiltaste`
 
-* **Wort hervorheben und mehrere Cursor auf die nächsten gleichen Wörter setzen:**
-Windows/Linux: `Strg + D`  MacOS: `Cmd + D`
+-   **Wort hervorheben und mehrere Cursor auf die nächsten gleichen Wörter setzen:**
+    Windows/Linux: `Strg + D` MacOS: `Cmd + D`
 
-* **Alle Vorkommen der aktuellen Auswahl auswählen:**
-Windows/Linux: `Strg + Shift + L`  MacOS: `Cmd + Shift + L`
+-   **Alle Vorkommen der aktuellen Auswahl auswählen:**
+    Windows/Linux: `Strg + Shift + L` MacOS: `Cmd + Shift + L`
 
-* **Ausschnitt einfügen:**
-Windows/Linux: `Shift + Alt + J`  MacOS: `Shift + Option + J`
+-   **Ausschnitt einfügen:**
+    Windows/Linux: `Shift + Alt + J` MacOS: `Shift + Option + J`
 
-* **Zeile kopieren:**
-Windows/Linux: `Shift + Alt + Hoch/Runter Pfeiltaste`  MacOS: `Shift + Option + Hoch/Runter Pfeiltaste`
+-   **Zeile kopieren:**
+    Windows/Linux: `Shift + Alt + Hoch/Runter Pfeiltaste` MacOS: `Shift + Option + Hoch/Runter Pfeiltaste`
 
-* **Cursor oben/unten hinzufügen:**
-Windows/Linux: `Strg + Alt + Hoch/Runter Pfeiltaste`  MacOS: `Strg + Option + Hoch/Runter Pfeiltaste`
+-   **Cursor oben/unten hinzufügen:**
+    Windows/Linux: `Strg + Alt + Hoch/Runter Pfeiltaste` MacOS: `Strg + Option + Hoch/Runter Pfeiltaste`
 
-* **Letzten Cursorvorgang rückgängig machen:**
-Windows/Linux: `Strg + U`  MacOS: `Cmd + U`
+-   **Letzten Cursorvorgang rückgängig machen:**
+    Windows/Linux: `Strg + U` MacOS: `Cmd + U`
 
-* **Zeile auskommentieren:**
-Windows/Linux: `Strg + #`  MacOS: `Cmd + #`
+-   **Zeile auskommentieren:**
+    Windows/Linux: `Strg + #` MacOS: `Cmd + #`
 
-* **Hervorgehobenen Bereich auskommentieren:**
-Windows/Linux: `Shift + Alt + A`  MacOS: `Shift + Option + A`
+-   **Hervorgehobenen Bereich auskommentieren:**
+    Windows/Linux: `Shift + Alt + A` MacOS: `Shift + Option + A`
 
-* **Mehrzeiliger Cursor:**
-Windows/Linux: `Strg + Alt + Hoch/Runter Pfeiltaste` oder Alt gedrückt halten und KLICKEN MacOS: `Cmd + Option + Hoch/Runter Pfeiltaste` oder Option gedrückt halten und KLICKEN
+-   **Mehrzeiliger Cursor:**
+    Windows/Linux: `Strg + Alt + Hoch/Runter Pfeiltaste` oder Alt gedrückt halten und KLICKEN MacOS: `Cmd + Option + Hoch/Runter Pfeiltaste` oder Option gedrückt halten und KLICKEN
 
-* **Aktuelle Zeile auswählen:**
-Windows/Linux: `Strg + L`  MacOS: `Cmd + L`
+-   **Aktuelle Zeile auswählen:**
+    Windows/Linux: `Strg + L` MacOS: `Cmd + L`
 
-* **Zeile nach oben/unten verschieben:**
-Windows/Linux: `Alt + Hoch/Runter Pfeiltaste`  MacOS: `Option + Hoch/Runter Pfeiltaste`
+-   **Zeile nach oben/unten verschieben:**
+    Windows/Linux: `Alt + Hoch/Runter Pfeiltaste` MacOS: `Option + Hoch/Runter Pfeiltaste`
 
-* **Zeile löschen:**
-Windows/Linux: `Strg + Shift + K`  MacOS: `Cmd + Shift + K`
+-   **Zeile löschen:**
+    Windows/Linux: `Strg + Shift + K` MacOS: `Cmd + Shift + K`
 
-* **Zeile unten einfügen:**
-Windows/Linux: `Strg + Enter`  MacOS: `Cmd + Enter`
+-   **Zeile unten einfügen:**
+    Windows/Linux: `Strg + Enter` MacOS: `Cmd + Enter`
 
-* **Zeile oben einfügen:**
-Windows/Linux: `Strg + Shift + Enter`  MacOS: `Cmd + Shift + Enter`
+-   **Zeile oben einfügen:**
+    Windows/Linux: `Strg + Shift + Enter` MacOS: `Cmd + Shift + Enter`
 
-* **Text formatieren:**
-Windows/Linux: `Shift + Alt + F`  MacOS: `Shift + Option + F`
+-   **Text formatieren:**
+    Windows/Linux: `Shift + Alt + F` MacOS: `Shift + Option + F`
 
 ---
 

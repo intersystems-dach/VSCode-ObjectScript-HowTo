@@ -4,55 +4,61 @@ Visual Studio Code ist ein leistungsstarker Texteditor, der jedoch mit den richt
 
 ---
 
-* **[Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)** - Extension Pakete zum automatischen Hinzufügen von Schließen-Tags und Umbenennen von gepaarten Tags für HTML/XML.
+-   **[Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag)** - Extension Pakete zum automatischen Hinzufügen von Schließen-Tags und Umbenennen von gepaarten Tags für HTML/XML.
 
-* **[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)** - Eine Extension, die fehlende Module während der Eingabe automatisch importiert, wodurch Sie Zeit sparen und die Wahrscheinlichkeit von Fehlern verringern.
+-   **[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)** - Eine Extension, die fehlende Module während der Eingabe automatisch importiert, wodurch Sie Zeit sparen und die Wahrscheinlichkeit von Fehlern verringern.
 
-* **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - Verbessern Sie Ihre Codekommentierung, indem Sie mit Warnungen, Informationen, TODOs und mehr kommentieren!
+-   **[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)** - Verbessern Sie Ihre Codekommentierung, indem Sie mit Warnungen, Informationen, TODOs und mehr kommentieren!
 
-* **[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)** - Linien markieren und zu ihnen springen.
+-   **[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)** - Linien markieren und zu ihnen springen.
 
-* **[ChatGPT: write and improve code using AI](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)** - Verwenden Sie ChatGPT direkt in der IDE, um Ihre Codierung mit KI-gestützter Unterstützung zu verbessern und zu automatisieren (inoffiziell).
+-   **[ChatGPT: write and improve code using AI](https://marketplace.visualstudio.com/items?itemName=timkmecl.chatgpt)** - Verwenden Sie ChatGPT direkt in der IDE, um Ihre Codierung mit KI-gestützter Unterstützung zu verbessern und zu automatisieren (inoffiziell).
 
-* **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)** - Eine Extension, mit der Sie Ihren Code direkt aus VSCode ausführen können, mit Unterstützung für mehrere Sprachen und automatischer Ausgabeformatierung.
+-   **[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)** - Eine Extension, mit der Sie Ihren Code direkt aus VSCode ausführen können, mit Unterstützung für mehrere Sprachen und automatischer Ausgabeformatierung.
 
-* **[Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)** - Eine Extension, die es einfach macht, Farben in Ihrem Code auszuwählen und zu verwenden, mit einer Farbauswahl und einer Palette gängiger Farben.
+-   **[Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)** - Eine Extension, die es einfach macht, Farben in Ihrem Code auszuwählen und zu verwenden, mit einer Farbauswahl und einer Palette gängiger Farben.
 
-* **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - Eine Extension, mit der Sie Ihren JavaScript-Code direkt in Chrome debuggen können, mit vollständiger Unterstützung für Haltepunkte, Aufruflisten und mehr.
+-   **[Console Ninja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.console-ninja)** - JavaScript-Console.log-Ausgabe- und Laufzeitfehler direkt neben Ihrem Code.
 
-* **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** - Vereinfacht das Erstellen, Verwalten und Debuggen von containerisierten Anwendungen.
+-   **[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)** - Eine Extension, mit der Sie Ihren JavaScript-Code direkt in Chrome debuggen können, mit vollständiger Unterstützung für Haltepunkte, Aufruflisten und mehr.
 
-* **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - Eine Extension, die Ihnen hilft, konsistenteren und fehlerfreien Code zu schreiben, indem sie Ihren Code auf potenzielle Probleme durchsucht.
+-   **[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)** - Vereinfacht das Erstellen, Verwalten und Debuggen von containerisierten Anwendungen.
 
-* **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** - Eine Extension, die VSCode leistungsstarke Git-Funktionen hinzufügt, einschließlich Visualisierungen von Änderungen, Schuldanmerkungen und mehr.
+-   **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)** - Eine Extension, die Ihnen hilft, konsistenteren und fehlerfreien Code zu schreiben, indem sie Ihren Code auf potenzielle Probleme durchsucht.
 
-* **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - Die Visual Studio IntelliCode-Extension bietet KI-unterstützte Entwicklungsfunktionen für Python-, TypeScript/JavaScript- und Java-Entwickler in Visual Studio Code mit Erkenntnissen, die auf dem Verständnis Ihres Codekontexts in Kombination mit maschinellem Lernen basieren.
+-   **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)** - Eine Extension, die VSCode leistungsstarke Git-Funktionen hinzufügt, einschließlich Visualisierungen von Änderungen, Schuldanmerkungen und mehr.
 
-* **[IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)** - Sehen Sie sich relevante Codebeispiele von GitHub für über 100.000 verschiedene APIs direkt in Ihrem Editor an.
+-   **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)** - Die Visual Studio IntelliCode-Extension bietet KI-unterstützte Entwicklungsfunktionen für Python-, TypeScript/JavaScript- und Java-Entwickler in Visual Studio Code mit Erkenntnissen, die auf dem Verständnis Ihres Codekontexts in Kombination mit maschinellem Lernen basieren.
 
-* **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - Jupyter-Notebook Unterstützung, interaktives Programmieren und Computing, das Intellisense, Debugging und mehr unterstützt.
+-   **[IntelliCode API Usage Examples](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.intellicode-api-usage-examples)** - Sehen Sie sich relevante Codebeispiele von GitHub für über 100.000 verschiedene APIs direkt in Ihrem Editor an.
 
-* **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - Eine Extension, mit der Sie einen lokalen Webserver ausführen und eine Vorschau Ihrer HTML-, CSS- und JavaScript-Änderungen in Echtzeit anzeigen können.
+-   **[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)** - Jupyter-Notebook Unterstützung, interaktives Programmieren und Computing, das Intellisense, Debugging und mehr unterstützt.
 
-* **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced portiert nach vscode.
+-   **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** - Eine Extension, mit der Sie einen lokalen Webserver ausführen und eine Vorschau Ihrer HTML-, CSS- und JavaScript-Änderungen in Echtzeit anzeigen können.
 
-* **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** - Eine Extension, die die Standardsymbole im Explorer in ein moderneres und minimalistischeres Design umwandelt.
+-   **[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)** - Markdown Preview Enhanced portiert nach vscode.
 
-* **[Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)** - Behält die Groß-/Kleinschreibung bei der Bearbeitung mit mehreren Cursorn bei.
+-   **[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)** - Eine Extension, die die Standardsymbole im Explorer in ein moderneres und minimalistischeres Design umwandelt.
 
-* **[open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)** - Dadurch können Sie die aktuelle Datei in Ihrem Standardbrowser oder Ihrer Standardanwendung öffnen.
+-   **[Multiple cursor case preserve](https://marketplace.visualstudio.com/items?itemName=Cardinal90.multi-cursor-case-preserve)** - Behält die Groß-/Kleinschreibung bei der Bearbeitung mit mehreren Cursorn bei.
 
-* **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Eine Extension, die Ihren Code automatisch so formatiert, dass er einem einheitlichen Stil entspricht.
+-   **[open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)** - Dadurch können Sie die aktuelle Datei in Ihrem Standardbrowser oder Ihrer Standardanwendung öffnen.
 
-* **[SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)** - SonarLint ist eine IDE-Erweiterung, die Ihnen hilft, Qualitätsprobleme zu erkennen und zu beheben, während Sie Code in C, C, Java, JavaScript, PHP, Python, HTML und TypeScript schreiben.
+-   **[Postman](https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode)** - Optimieren Sie die API-Entwicklung und das Testen mit der Leistung von Postman direkt in Ihrer bevorzugten IDE.
 
-* **[SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)** - Verbinden von Benutzern mit vielen der am häufigsten verwendeten Datenbanken. Willkommen bei der richtigen Datenbankverwaltung.
+-   **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** - Eine Extension, die Ihren Code automatisch so formatiert, dass er einem einheitlichen Stil entspricht.
 
-* **[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)** - Leichtgewichtiger-Rest-API-Client für VSCode.
+-   **[SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)** - SonarLint ist eine IDE-Erweiterung, die Ihnen hilft, Qualitätsprobleme zu erkennen und zu beheben, während Sie Code in C, C, Java, JavaScript, PHP, Python, HTML und TypeScript schreiben.
 
-* **[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)** - Automatisches Schreiben aussagekräftiger Logmeldungen.
+-   **[SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)** - Verbinden von Benutzern mit vielen der am häufigsten verwendeten Datenbanken. Willkommen bei der richtigen Datenbankverwaltung.
 
-* **[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)** - XML-Formatierung, XQuery- und XPath-Tools für Visual Studio Code.
+-   **[Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client)** - Leichtgewichtiger-Rest-API-Client für VSCode.
+
+-   **[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)** - Automatisches Schreiben aussagekräftiger Logmeldungen.
+
+-   **[vscode-spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)** - Verwenden Sie Spotify in vscode.
+
+-   **[XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)** - XML-Formatierung, XQuery- und XPath-Tools für Visual Studio Code.
 
 Dies sind nur einige Beispiele für die vielen nützlichen Extensions, die für Visual Studio Code verfügbar sind. Experimentieren Sie mit verschiedenen Extensions, um diejenigen zu finden, die für Sie und Ihren Workflow am besten geeignet sind.
 
@@ -60,9 +66,9 @@ Dies sind nur einige Beispiele für die vielen nützlichen Extensions, die für 
 
 Schauen Sie sich auch gerne meine Visual Studio Code Extensions an:
 
-* **[OwnVscodeExtension](https://github.com/phil1436/ownvscodeextension)** - Bereitstellung von Werkzeugen für Visual Studio Code.
-* **[OwnGitExtension](https://github.com/phil1436/owngitextension)** - Eine Visual Studio Code Extension, die Werkzeuge für die Arbeit mit GitHub-Projekten bietet.
-* **[OwnObjectScriptExtension](https://github.com/phil1436/ownobjectscriptextension)** - Eine Visual Studio Code Extension, die Werkzeuge für InterSystems ObjectScript bereitstellt.
+-   **[VSToolKit](https://marketplace.visualstudio.com/items?itemName=PhilippBo.vstoolkit)** - Bereitstellung von Tools für Visual Studio Code.
+-   **[OwnGitExtension](https://github.com/phil1436/owngitextension)** - Eine Visual Studio Code-Erweiterung, die Tools für die Arbeit mit GitHub-Projekten bietet.
+-   **[OwnObjectScriptExtension](https://marketplace.visualstudio.com/items?itemName=PhilippB.ownobjectscriptextension)** - Eine Visual Studio-Codeerweiterung, die Tools für InterSystems ObjectScript bereitstellt.
 
 ---
 
