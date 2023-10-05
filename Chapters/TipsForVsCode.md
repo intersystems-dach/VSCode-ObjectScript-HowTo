@@ -6,7 +6,7 @@ Here are a few tips to help you get the most out of Visual Studio Code.
 
 ## Editor Playground
 
-If you just getting started with Visual Studio Code you can try the *Editor Playground* under `Help > Editor Playground`. Here you learn how to use some of the powerful [code editing features](https://code.visualstudio.com/docs/editor/codebasics).
+If you just getting started with Visual Studio Code you can try the _Editor Playground_ under `Help > Editor Playground`. Here you learn how to use some of the powerful [code editing features](https://code.visualstudio.com/docs/editor/codebasics).
 
 ## Use the Command Palette
 
@@ -36,17 +36,17 @@ Visual Studio Code has a large number of keyboard shortcuts that can help you wo
 
 Its not always easy to keep your code in a good readable condition manually. Thankfully Visual Studio Code provides a formatter for almost every language. To format your file at the same time when you save your file, you can enable the `Format On Save` feature:
 
-* Open the Settings under `File > Preferences > Settings` or via `Ctrl + ,`
-* Type *Format On Save*
-* Check the checkbox for `Editor: Format On Save`
+-   Open the Settings under `File > Preferences > Settings` or via `Ctrl + ,`
+-   Type _Format On Save_
+-   Check the checkbox for `Editor: Format On Save`
 
 ## Sticky Scroll
 
 When working in code with long classes and methods that stretch beyond the vertical size of your screen, it can be difficult to keep track of which scope you’re working in. You may be editing a long method or exploring an unfamiliar codebase. Visual Studio Code now offers a feature to have a better overview of your code: **Sticky Scroll**
 
-* Open the Settings under `File > Preferences > Settings` or via `Ctrl + ,`
-* Type *Sticky Scroll*
-* Check the checkbox for `Editor › Sticky Scroll: Enabled`
+-   Open the Settings under `File > Preferences > Settings` or via `Ctrl + ,`
+-   Type _Sticky Scroll_
+-   Check the checkbox for `Editor › Sticky Scroll: Enabled`
 
 ## Customize the settings
 
@@ -54,13 +54,13 @@ Visual Studio Code allows you to customize various settings, such as the font si
 
 Here you can find useful settings as well as
 
-* `editor.renderWhitespace`: render whitespaces in your code for better visibility.
-* `editor.tabSize`: customize the size of the tab
-* `editor.fontSize` : customise the size of the font
+-   `editor.renderWhitespace`: render whitespaces in your code for better visibility.
+-   `editor.tabSize`: customize the size of the tab
+-   `editor.fontSize` : customise the size of the font
 
 ## Settings Sync
 
-You can sync your settings, keybindings and extensions across all devices with *[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)*. Just log in with your GitHub or Microsoft user.
+You can sync your settings, keybindings and extensions across all devices with _[Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync)_. Just log in with your GitHub or Microsoft user.
 
 ## Use code navigation features
 
