@@ -1,6 +1,6 @@
 <div align="center">
     <br />
-    <img src="https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="IRIS X VSCode" width="30%"/>
+    <img src="https://raw.githubusercontent.com/intersystems-dach/VSCode-ObjectScript-HowTo/master/imgs/IrisXVscode.png" alt="IRIS X VSCode" width="30%"/>
     <h1>VSCode-ObjectScript-HowTo <i>german</i></h1>
     <p>Eine Einführung in <a href = "https://code.visualstudio.com/">Microsoft's Visual Studio Code</a> und wie man Visual Studio Code mit <a href = "https://docs.intersystems.com/irislatest/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_INTRO">InterSystems ObjectScript</a> nutzt.</p>
 </div>
@@ -43,11 +43,11 @@ Fang **[hier](Chapters/GettingStartedWithVSCode.md)** an zu lesen.
 
 ---
 
-**[Hier](https://raw.githubusercontent.com/phil1436/VSCode-ObjectScript-HowTo/german/VSCode-HowTo.pdf)** als PDF downloaden.
+**[Hier](https://raw.githubusercontent.com/intersystems-dach/VSCode-ObjectScript-HowTo/german/VSCode-HowTo.pdf)** als PDF downloaden.
 
 ---
 
-Siehe **[hier](https://github.com/phil1436/VSCode-ObjectScript-HowTo/tree/master)** für die englische Version.
+Siehe **[hier](https://github.com/intersystems-dach/VSCode-ObjectScript-HowTo/tree/master)** für die englische Version.
 
 ---
 
