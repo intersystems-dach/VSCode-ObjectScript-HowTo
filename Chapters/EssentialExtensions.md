@@ -67,7 +67,6 @@ These are just a few examples of the many useful extensions available for Visual
 Check out my Visual Studio Code Extensions:
 
 -   **[VSToolKit](https://marketplace.visualstudio.com/items?itemName=PhilippBo.vstoolkit)** - Providing tools for Visual Studio Code.
--   **[OwnGitExtension](https://github.com/phil1436/owngitextension)** - A Visual Studio Code Extension that offers tools for working with GitHub projects.
 -   **[OwnObjectScriptExtension](https://marketplace.visualstudio.com/items?itemName=PhilippB.ownobjectscriptextension)** - A Visual Studio code extension that supplies tools for InterSystems ObjectScript.
 
 ---
