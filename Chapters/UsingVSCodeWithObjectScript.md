@@ -142,4 +142,4 @@ When you want to have a look inside your database without leaving Visual Studio 
 
 [Overview](../README.md)
 
-by [Philipp B.](https://github.com/phil1436)
+by [Philipp B.](https://github.com/cophilot)

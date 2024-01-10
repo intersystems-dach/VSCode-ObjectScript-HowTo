@@ -51,6 +51,6 @@ View the german version **[here](https://github.com/intersystems-dach/VSCode-Obj
 
 ---
 
-by [Philipp B.](https://github.com/phil1436)
+by [Philipp B.](https://github.com/cophilot)
 
 _powered by [InterSystems](https://www.intersystems.com/)._
