@@ -162,4 +162,4 @@ Hier können Sie alle Befehle suchen und ausführen. Sie können hier auch einen
 
 [Überblick](../README.md)
 
-von [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/cophilot)

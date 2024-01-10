@@ -82,4 +82,4 @@ Visual Studio Code bietet eine Vielzahl von Extensions und es gibt fast für all
 
 [Überblick](../README.md)
 
-von [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/cophilot)

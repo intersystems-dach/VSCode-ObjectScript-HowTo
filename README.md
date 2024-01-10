@@ -51,6 +51,6 @@ Siehe **[hier](https://github.com/intersystems-dach/VSCode-ObjectScript-HowTo/tr
 
 ---
 
-von [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/cophilot)
 
 _powered by [InterSystems](https://www.intersystems.com/)._

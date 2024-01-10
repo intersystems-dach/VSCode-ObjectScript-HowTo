@@ -142,4 +142,4 @@ Wenn Sie einen Blick in Ihre Datenbank werfen möchten, ohne Visual Studio Code 
 
 [Überblick](../README.md)
 
-von [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/cophilot)

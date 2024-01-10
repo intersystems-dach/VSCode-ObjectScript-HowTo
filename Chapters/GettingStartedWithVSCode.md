@@ -147,4 +147,4 @@ Dies sind nur einige der vielen Funktionen, die Visual Studio Code zu bieten hat
 
 [Überblick](../README.md)
 
-von [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/cophilot)

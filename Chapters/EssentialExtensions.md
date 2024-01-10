@@ -75,4 +75,4 @@ Schauen Sie sich auch gerne meine Visual Studio Code Extensions an:
 
 [Überblick](../README.md)
 
-von [Philipp B.](https://github.com/phil1436)
+von [Philipp B.](https://github.com/cophilot)
